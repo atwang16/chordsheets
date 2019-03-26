@@ -28,7 +28,13 @@ def get_gnupg_home():
 CONFIGURATION_FILE = "configuration.json"
 GNUPG_HOME = get_gnupg_home()
 KEY_FILE = os.path.join(GNUPG_HOME, 'ccli_gpg_key.asc')
-KEY_PASSPHRASE = "passphrase"  # because GnuPG >= 2.1 needs a passphrase for secret keys; gg
+
+# because GnuPG >= 2.1 needs a passphrase for secret keys
+# yes I know it kind of defeats the purpose, but the best they can do is have a bogus password for a key they can't
+# access in a case in which I would have otherwise put no password anyway, for an account for which they can make their
+# own free version if they care so much about getting your CCLI password.
+# PSA: Don't make passwords like this, and don't push it to git either.
+KEY_PASSPHRASE = "passphrase"  # gg
 
 
 if __name__ == '__main__':
@@ -45,8 +51,11 @@ if __name__ == '__main__':
         use_different_user = False
 
     # load configuration.json file
-    with open(CONFIGURATION_FILE, "r") as f_r:
-        config = json.load(f_r)
+    if os.path.exists(CONFIGURATION_FILE):
+        with open(CONFIGURATION_FILE, "r") as f_r:
+            config = json.load(f_r)
+    else:
+        config = {}
 
     # encrypt password
     gnupg_home_directory = get_gnupg_home()

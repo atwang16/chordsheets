@@ -24,7 +24,7 @@ from getpass import getpass
 # Global constants
 MAX_COMPOSER_FIELD_LENGTH = 40
 DEFAULT_KEY = "C"
-CONFIG_FILENAME = "configuration.json"
+CONFIG_FILENAMES = ["configuration.json", "CONFIGURATION"]
 CCLI_LOGIN_URL = "https://profile.ccli.com/account/signin?appContext=SongSelect&returnUrl=https%3a%2f%2fsongselect.ccli.com%2f"
 
 DEFAULT_HEADER = {
@@ -573,7 +573,10 @@ if __name__ == '__main__':
     root_filename = path_to_chordsheet.rpartition(".")[0]
 
     # parse config file
-    directories, account_info = get_variables(CONFIG_FILENAME)
+    for config_filename in CONFIG_FILENAMES:
+        if os.path.exists(config_filename):
+            directories, account_info = get_variables(config_filename)
+            break
 
     # generate chordsheet
     header_info, song = parse(os.path.join(directories["input"], path_to_chordsheet))

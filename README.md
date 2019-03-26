@@ -86,7 +86,20 @@ the tex file, and recompile.
 ### Configuration
 
 Should you desire to change the default directories in which the script looks for your raw chordsheets and outputs
-generated chordsheets and slides, you can change the defaults in the `$ROOT/CONFIGURATION` file.
+generated chordsheets and slides, you can change the defaults in the `$ROOT/configuration.json` file.
+
+If desired, the JSON format also supports a non-encrypted version of the password, with key `"ccli_password"` (in which
+case you can skip steps 7 and 8). However, note that this is not recommended practice as it is insecure.
+
+The old form of configuration file is also supported:
+```
+input_directory=chordsheets_raw
+chordsheets_output_directory=chordsheets_final
+slides_output_directory=slides
+ccli_email_address=emailaddress@domain.com
+ccli_password=yourpasswordhere
+```
+The file should be named as `CONFIGURATION`.
 
 ## Testing
 
