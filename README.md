@@ -16,9 +16,9 @@ If you just want to access the existing generated chordsheets, simply download d
 To use this project to generate your own chordsheets, follow the below instructions:
 1. Clone the project onto your local machine.
 
-2. Install the `requests` package through `pip`, `conda`, or another python package installer, e.g.
+2. Install the `requests` and `python-gnupg` package through `pip`, `conda`, or another python package installer, e.g.
 ```
-pip install requests
+pip install requests python-gnupg
 ```
 
 3. Install LaTeX, such as described [here](https://www.latex-project.org/get/). You will need to be able to run `pdflatex`
@@ -31,16 +31,29 @@ Make sure that, by the end of installation, `convert` can be found in your `$PAT
 account. To automatically save your CCLI information, save the username and password in the CONFIGURATION file, or enter
 it in upon prompting during execution of the script.
 
-6. Create a configuration file in your root project directory called `CONFIGURATION`, and copy the following contents into it:
+6. Create a configuration file in your root project directory called `configuration.json`, and copy the following contents into it:
 ```
-input_directory=chordsheets_raw
-chordsheets_output_directory=chordsheets_final
-slides_output_directory=slides
-ccli_email_address=<email_address>
-ccli_password=<password>
+{
+  "input_directory": "chordsheets_raw",
+  "chordsheets_output_directory": "chordsheets_final",
+  "slides_output_directory": "slides",
+  "ccli_email_address": <email_address>
+}
 ```
+If you chose not to create a CCLI account, omit the last line.
 
-If you choose not to create a CCLI account, omit the last two lines.
+7. (Optional) If you created a CCLI account, to create a GPG public/private key pair, run
+```bash
+python3 -m utils.create_key --user <email_address>
+```
+where `<email_address>` is the email address used for CCLI. Alternatively, you can also create the key with any email address (even a fake one) if you want.
+
+8. (Optional) To encrypt your password for CCLI, run
+```bash
+python3 -m utils.encrypt --user <email_address>
+```
+Alternatively, if you have already put the email address in the configuration file and used the same one to generate your key,
+you can run this wihtout the user input.
 
 ## Usage
 
@@ -98,3 +111,4 @@ Planned future feature improvements:
 - [ ] Add support for converting Ultimate Guitar Tab style chordsheets into raw chordsheet format
 - [ ] Detection of need for two columns (so lines don't have to be fit if only one column is used)
 - [ ] Allow for comments in raw chordsheet (using //)
+- [x] Encryption support for passwords

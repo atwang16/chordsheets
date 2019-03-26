@@ -16,11 +16,15 @@ from pprint import pprint
 import shutil
 from utils.headers import CHORDSHEET_HEADER, SLIDES_HEADER
 from utils.classes import *
+import json
+import gnupg
+from utils.encrypt import get_gnupg_home, KEY_PASSPHRASE
+from getpass import getpass
 
 # Global constants
 MAX_COMPOSER_FIELD_LENGTH = 40
 DEFAULT_KEY = "C"
-CONFIG_FILENAME = "CONFIGURATION"
+CONFIG_FILENAME = "configuration.json"
 CCLI_LOGIN_URL = "https://profile.ccli.com/account/signin?appContext=SongSelect&returnUrl=https%3a%2f%2fsongselect.ccli.com%2f"
 
 DEFAULT_HEADER = {
@@ -69,7 +73,7 @@ def get_variables(filename: str):
     - slides_output_directory = the path to the directory in which the final slides should be saved
     - ccli_email_address = the email address to be used for the CCLI account (optional)
     - ccli_password = the password to be used for the CCLI account (optional)
-    The file expects a format such as
+    The legacy version expects a file format such as
 
         variable=value
 
@@ -81,26 +85,67 @@ def get_variables(filename: str):
         ccli_email_address=emailaddress@domain.com
         ccli_password=yourpasswordhere
 
+    The latest version supports JSON input, similar to above but with ccli_password_encrypted.
     :param filename: str representing path to configuration file
-    :return:
+    :return: List of dict representing directory output and dict representing account info
     """
+    def is_json(filename):
+        return filename.rpartition(".")[2].lower() == "json"
+
     directories = {"input": "", "output": {"chordsheets": "", "slides": ""}}
     account_info = {}
-    with open(filename, "r") as f:
-        for line in f.readlines():
-            if "=" in line:
-                name, value = line.split("=")
-                value = value.rstrip()
-                if name == "input_directory":
-                    directories["input"] = value
-                elif name == "chordsheets_output_directory":
-                    directories["output"]["chordsheets"] = value
-                elif name == "slides_output_directory":
-                    directories["output"]["slides"] = value
-                elif name == "ccli_email_address":
-                    account_info["EmailAddress"] = value
-                elif name == "ccli_password":
-                    account_info["Password"] = value
+
+    # read JSON configuration file
+    if is_json(filename):
+        with open(filename, "r") as f:
+            config = json.load(f)
+        if "input_directory" in config:
+            directories["input"] = config["input_directory"]
+
+        # configure variables in output dictionaries
+        if "chordsheets_output_directory" in config:
+            directories["output"]["chordsheets"] = config["chordsheets_output_directory"]
+
+        if "slides_output_directory" in config:
+            directories["output"]["slides"] = config["slides_output_directory"]
+
+        if "ccli_email_address" in config:
+            account_info["EmailAddress"] = config["ccli_email_address"]
+
+        # decrypt password
+        if "ccli_password_encrypted" in config:
+            gpg = gnupg.GPG(gnupghome=get_gnupg_home())
+            decrypted_data = gpg.decrypt(config["ccli_password_encrypted"], passphrase=KEY_PASSPHRASE)
+            if decrypted_data.ok:  # decrypt successful
+                account_info["Password"] = decrypted_data.data
+            else:  # decrypt failed
+                print("------------")
+                print("Attempted to decrypt password.")
+                print('ok: ', decrypted_data.ok)
+                print('status: ', decrypted_data.status)
+                print('stderr: ', decrypted_data.stderr)
+                print('decrypted string: ', decrypted_data.data)
+
+        elif "ccli_password" in config:  # JSON support for unencrypted passwords for people who don't care about security
+            account_info["Password"] = config["ccli_password"]
+
+    else:  # old format; legacy support
+        with open(filename, "r") as f:
+            for line in f.readlines():  # parse file
+                if "=" in line:
+                    name, value = line.split("=")
+                    value = value.rstrip()
+                    if name == "input_directory":
+                        directories["input"] = value
+                    elif name == "chordsheets_output_directory":
+                        directories["output"]["chordsheets"] = value
+                    elif name == "slides_output_directory":
+                        directories["output"]["slides"] = value
+                    elif name == "ccli_email_address":
+                        account_info["EmailAddress"] = value
+                    elif name == "ccli_password":
+                        account_info["Password"] = value
+
     return directories, account_info
 
 
@@ -297,12 +342,12 @@ def supplement_header(header: dict, account_info: dict):
 
         # check if account info is already loaded
         if "EmailAddress" not in account_info:
-            account_info["EmailAddress"] = input("Enter CCLI email address (to skip, press enter):")
+            account_info["EmailAddress"] = input("Enter CCLI email address (to skip, press enter): ")
             if len(account_info["EmailAddress"]) == 0:
                 return new_header
 
         if "Password" not in account_info:
-            account_info["Password"] = input("Enter CCLI password (to skip, press enter):")
+            account_info["Password"] = getpass(prompt="Enter CCLI password (to skip, press enter): ")
             if len(account_info["Password"]) == 0:
                 return new_header
 
