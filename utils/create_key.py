@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
 
+"""
+file: create_key.py
+
+Used to generate GPG public/private key pair.
+"""
+
 import gnupg
 from utils.encrypt import GNUPG_HOME, KEY_FILE, KEY_PASSPHRASE
 import argparse
