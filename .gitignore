@@ -1,5 +1,6 @@
 post_response.txt
 CONFIGURATION
+configuration.json
 .DS_Store
 __pycache__/
 .idea/
