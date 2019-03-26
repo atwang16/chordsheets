@@ -1,0 +1,53 @@
+<song> In Christ Alone
+<ccli> 3350395
+<key> C Major
+<bpm> 63
+<signature> 4/4
+<verse> Isaiah 28:16, Philippians 4:7, 13
+<arranger> ACF Worship
+
+<order>
+Verse 1
+Verse 2
+Verse 3
+Verse 4
+
+<Verse 1>
+In [F]Christ a[C]lone my [F]hope is [G]found,
+[C]He is my [F]light, my [G]strength, my [C]song;
+This [F]Corner[C]stone, this [F]solid [G]Ground,
+[C]Firm through the [F]fiercest [G]drought and [C]storm.
+What heights of [F]love, what [C]depths of [G]peace,
+When [C/E]fears are [F]stilled, when [C]strivings [G]cease!
+My [F]Comfor[C]ter, my [F]All in [G]All,
+[C]Here in the [F]love of [G]Christ I [C]stand.
+
+<Verse 2>
+In [F]Christ a[C]lone! – who [F]took on [G]flesh,
+[C]Fullness of [F]God in [G]helpless [C]babe.
+This [F]gift of [C]love and [F]righteous[G]ness,
+[C]Scorned by the [F]ones He [G]came to [C]save:
+Till on that [F]cross as [C]Jesus [G]died,
+The [C/E]wrath of [F]God was [C]satis[G]fied –
+For [F]every [C]sin on [F]Him was [G]laid;
+[C]Here in the [F]death of [G]Christ I [C]live.
+
+<Verse 3>
+There [F]in the [C]ground His [F]body [G]lay,
+[C]Light of the [F]world by [G]darkness [C]slain:
+Then [F]bursting [C]forth in [F]glorious [G]day
+[C]Up from the [F]grave He [G]rose a[C]gain!
+And as He [F]stands in [C]victo[G]ry
+Sin’s [C/E]curse has [F]lost its [Am]grip on [G]me,
+For [F]I am [C]His and [F]He is [G]mine-
+[C]Bought with the [F]precious [G]blood of [C]Christ.
+
+<Verse 4>
+No [F]guilt in [C]life, no [F]fear in [G]death,
+[C]This is the [F]power of [G]Christ in [C]me;
+From [F]life’s first [C]cry to [F]final [G]breath,
+[C]Jesus com[F]mands my [G]desti[C]ny.
+No power of [F]hell, no [C]scheme of [G]man,
+Can [C]ever [F]pluck me [C]from His [G]hand:
+Till [F]He re[C]turns or [F]calls me [G]home,
+[C]Here in the [F]power of [G]Christ I’ll [C]stand.

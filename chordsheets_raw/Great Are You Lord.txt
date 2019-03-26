@@ -1,0 +1,42 @@
+<song> Great Are You Lord
+<ccli> 6460220
+<composer> David Leonard, Jason Ingram, Leslie Jordan
+<key> A Major
+<bpm> 0
+<signature> 4/4
+<verse> N/A
+<arranger> UCO Worship
+<year> 2012
+<publisher> Integrity's Alleluia! Music, Integrity's Praise! Music, Open Hands Music, So Essential Tunes
+
+<order>
+Verse
+Chorus
+Verse
+Chorus
+Bridge (x4)
+Chorus
+
+<Intro>
+| D | F#m | E |
+
+<Verse>
+You give [D]life, You are [F#m]love
+You bring [E]light to the darkness
+You give [D]hope, You [F#m]restore
+Every [E]heart that is broken
+[D][F#m]Great are You, [E]Lord
+
+<Chorus>
+It's Your [D]breath in our [F#m]lungs
+So we [E]pour out our praise, we pour out our praise
+It's Your [D]breath in our [F#m]lungs  
+So we [E]pour out our praise to You only
+
+<Instrumental>
+| A | Asus | D2 | A |
+
+<Bridge>
+All the earth will shout Your praise
+Our hearts will cry, these bones will sing
+Great are You, Lord

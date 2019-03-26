@@ -1,0 +1,50 @@
+<song> Cornerstone
+<ccli> 6158927
+<key> C Major
+<bpm> 72
+<signature> 4/4
+<verse> Matthew 21:41-43
+<arranger> ACF Worship
+
+<order>
+Intro
+Verse 1
+Chorus
+Verse 2
+Chorus
+Tag
+Chorus
+Verse 3
+Chorus
+
+<Intro>
+| C | Am | F | G |
+
+<Verse 1>
+[C] My hope is built on nothing less
+[F] Than Jesus' blood and [G]righteousness
+[Am] I dare not trust the [C/G]sweetest frame
+[F] But wholly [G]trust in Jesus' [C]name
+
+<Chorus>
+[C/E] Christ a[F]lone, [Am]corner[G]stone
+[C/E]Weak made [F]strong in the [Am]Savior's [G]love
+[C/E]Through the [F]storm, [Am]He is [G]Lord
+Lord of [C]all
+
+<Verse 2>
+[C] When Darkness seems to hide His face
+[F] I rest on His un[G]changing grace
+[Am] In every high and [C/G]stormy gale
+[F] My anchor [G]holds within[C] the veil
+[F] My anchor [G]holds within[C] the veil
+
+<Tag>
+He is [Am]Lord
+Lord of [F]all[G]
+
+<Verse 3>
+[C] When He shall come with trumpet sound
+[F] Oh, may I then in [G]Him be found
+[Am] Dressed in His righteous[C/G]ness alone
+[F] Faultless [G]stand before[C] the throne

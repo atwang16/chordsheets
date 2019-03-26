@@ -1,0 +1,40 @@
+<song> Shout Unto God
+<ccli> 4455206
+<key> A Major
+<bpm> 72
+<signature> 4/4
+<verse> Psalm 66:1
+<arranger> ACF Worship
+
+<order>
+Chorus 1
+Chorus 2
+Chorus 3
+Chorus 4
+
+<Chorus 1>
+The [D2]enemy has been defeated 
+And [E]death couldn't hold You down 
+We're gonna [D2]lift our voice in victory 
+We're gonna [E]make Your praises loud 
+
+<Chorus 2>
+[D] Shout unto God with a voice of triumph
+[E] Shout unto God with a voice of praise
+[D] Shout unto God with a voice of triumph
+[E] We lift Your name up
+[E] We lift Your name up
+
+<Chorus 3>
+[D] Shout unto God with a voice of triumph
+Shout unto God with a voice of praise
+Shout unto God with a voice of triumph
+We lift Your name up
+We lift Your name up
+
+<Chorus 4>
+[D] Shout unto God with a voice of triumph
+[E] Shout unto God with a voice of praise
+[F#m] Shout unto God with a voice of triumph
+[E/G#] We lift Your name up
+[E/G#] We lift Your name up

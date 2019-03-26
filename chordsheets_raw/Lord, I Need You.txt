@@ -1,0 +1,55 @@
+<song> Lord, I Need You
+<ccli> 5925687
+<key> G Major
+<bpm> 75
+<signature> 4/4
+<verse> Hebrews 4:16
+<arranger> ACF Worship
+<year> 2011
+<publisher> sixsteps Music, Sweater Weather Music, Thankyou Music, Valley Of Songs Music, worshiptogether.com songs
+
+<order>
+Intro
+Verse 1
+Chorus
+Verse 2
+Chorus
+Bridge
+Chorus
+Outro
+
+<Intro>
+| G / / C | G / / / |
+
+<Verse 1>
+Lord, I [G]come, [C]I co[G]nfess
+Bowing [Em]here I [D]find my[C] rest
+Without [G]You I [C]fall a[G]-part
+You're the [Dsus4]One[D] that guides my [C]heart
+
+<Chorus>
+Lord, I [G]need You, [C]oh, I [G]need [D]You
+[Em]Every [C]hour I [G]need [D]You
+My [G/B]one de[C]fense, my [G/D]righteou[C/E]sness
+Oh [G]God, how I [D]need [G]You
+
+<Break>
+| G | C |
+
+<Verse 2>
+Where sin runs [G]deep Your [C]grace is[G] more
+Where grace is [Em]found is [D]where You[C] are
+Where You [G]are, Lord, [C]I am[G] free
+Holi[Dsus4]ness[D] is Christ in[G] me[C]
+
+<Bridge>
+So [C]teach my [G]song to [D]rise to [Em]You
+When temptation [D]comes my[C] way
+When I [C]cannot [G]stand I'll [D]fall on [Em]You
+Jesus, You're my [D]hope and [G]stay
+
+<Outro>
+You're my [G/B]one de[C]fense, my [G/D]righteou[C/E]sness
+Oh [G]God, how I [D]need [G]You
+My [G/B]one de[C]fense, my [G/D]righteou[C/E]sness
+Oh [G]God, how I [D]need [G]You

@@ -1,0 +1,57 @@
+<song> Marvelous Light
+<ccli> 4491002
+<composer> Charlie Hall
+<key> C Major
+<bpm> 124
+<signature> 4/4
+<verse> 1 Peter 2:9
+<arranger> ACF Worship
+<year> 2005
+<publisher> sixsteps Music, worshiptogether.com songs
+
+<order>
+Verse 1
+Verse 2
+Prechorus
+Chorus
+Verse 3
+Prechorus
+Chorus
+Bridge (x2)
+Chorus (x2)
+
+<Verse 1>
+[C] I once was fatherless
+[F2] A stranger with no hope
+[C] Your kindness wakened me
+A[F2]wakened me, from my sleep
+
+<Verse 2>
+[C] Your love it beckons deeply
+[F2] A call to come and die
+[Am7] By grace now I will come
+And [F2]take this life, take your life
+
+<Prechorus>
+[Am] Sin has [G]lost its power
+[F] Death has lost its sting
+[Am] From the [G]grave you've risen
+[F] victoriously
+
+<Chorus>
+[C] Into marvelous light I'm running
+[F] Out of darkness out of shame
+[Am] By the cross you [G]are the truth
+You [F]are the life, you are the way[C]
+
+<Verse 3>
+[C] My dead heart now is beating
+[F2] My deepest stains now clean
+[C] Your breath fills up my lungs
+[F2]Now I'm free. now I'm free
+
+<Bridge>
+[C] Lift my hands and spin around
+[Fmaj7] See the light that I have found
+[Am] Oh the [G]marvelous light
+M[F]arvelous light

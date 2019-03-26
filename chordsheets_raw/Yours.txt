@@ -1,0 +1,49 @@
+<song> Yours (Glory and Praise)
+<ccli> 7067564
+<composer> Chris Brown, Mack Brock, Steven Furtick
+<key> E Major
+<bpm> 70
+<signature> 4/4
+<arranger> UCO Worship
+<year> 2017
+<verse> N/A
+<publisher> Elevation Worship Publishing
+
+<order>
+Intro
+Verse 1
+Chorus
+Verse 2
+Chorus
+Bridge (x4)
+Chorus
+Outro
+
+<Intro>
+
+<Verse 1>
+It all revolves around Your throne
+Who can know your glory
+So high above, Yet slain for us
+You alone are worthy
+
+<Chorus>
+And the praise is yours
+And the praise is yours
+You’re the One we bow before
+Reigning over us
+As we lift you up
+You will reign forevermore
+
+<Verse 2>
+The One who was and is to come
+God of every moment
+Forever crowned, Exalted now
+You alone are holy
+
+<Bridge>
+Glory and praise
+Power and strength
+Worthy is the Lamb of God, Hallelujah
+
+<Outro>

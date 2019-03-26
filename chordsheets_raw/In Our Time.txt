@@ -1,0 +1,55 @@
+<song> In Our Time
+<ccli> N/A
+<composer> Andrew Mook, Jessica Shoe
+<key> G Major
+<bpm> 60
+<signature> 4/4
+<verse> Psalm 51:10-12
+<arranger> ACF Worship
+<year> 2017
+<publisher> N/A
+
+<order>
+Chorus
+Break 1
+Verse 1
+Chorus
+Break 1
+Verse 2
+Chorus (x2)
+Break 2
+Bridge 1 (x3)
+Bridge 2
+Chorus (x2)
+
+<Chorus>
+[G]In our [G/B]time, [C]in this place
+[Em]Renew and [C]remake
+[G]Hearts o[G/B]pen, [C]hands ready
+[Em]To walk in [C]faith and mercy
+
+<Verse 1>
+[C]We have heard the [Em]stories of your [D]fame
+[C]We have sung the [Em]songs of your great [D]ways
+[C]We have seen the [Em]beauty of your [D]grace
+And be[C]held the power and [G]glory of your [D]name
+
+<Break 1>
+| Em / C / | G/B / D / |
+
+<Verse 2>
+[C]Reconcile your [Em]children Lord we [D]pray
+[C]Bring the peace of [Em]heaven to this [D]place
+Ar[C]rest our fearful [Em]hearts and anxious [D]ways
+We [C]praise you friend of [G]sinners, God of [D]grace
+
+<Break 2>
+| Em | C | G/B | D |
+
+<Bridge 1>
+[Em]Come, Spirit [C]come
+[G]We won't move 'til you [D]come
+
+<Bridge 2>
+[Em]Come, Spirit [Am]come
+[G/B]We won't move 'til you [D]come

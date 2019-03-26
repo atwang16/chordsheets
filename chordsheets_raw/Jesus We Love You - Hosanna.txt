@@ -1,0 +1,78 @@
+<song> Jesus We Love You / Hosanna
+<ccli> 7030068 / 4785835
+<composer> Various Composers
+<key> B Major
+<bpm> 
+<signature> 6/8
+<arranger> Austin Wang
+<year> N/A
+<publisher> Various Publishers
+
+<order>
+Verse 1
+Verse 2
+Prechorus
+Chorus
+Verse 3
+Verse 4
+Prechorus
+Chorus (x2)
+Break
+Bridge 1 (x2)
+Bridge 2
+Bridge 3
+Chorus (x2)
+Bridge 4
+
+<Verse 1>
+Old things have [E]passed away
+Your love has [B]stayed the same
+Your constant [E]grace remains the corner[B]stone
+
+<Verse 2>
+Things that we [E]thought were dead
+Are breathing in [B]life again
+You cause your [E]Son to shine on darkest [B]nights
+
+<Prechorus>
+For [F#]all that you’ve done we will [G#m]pour out our love
+This will [E]be our anthem [F#]song
+
+<Chorus>
+[B/D#]Jesus we [E]love you
+Oh how we [B]love you
+You are the [E]one our hearts a[B]dore
+
+<Verse 3>
+The hopeless have [E]found their hope
+The orphans now [B]have a home
+All that was [E]lost has found its place in [B]you
+
+<Verse 4>
+You lift our [E]weary head
+You make us [B]strong instead
+You took these [E]rags and made us beauti[B]ful
+
+<Break>
+| G#m F# E / | (x3)
+| G#m F# B / |
+
+<Bridge 1>
+[E]Our affection, our devotion
+[B]poured out on the feet of Jesus
+
+<Bridge 2>
+[C#m]Our affection, our devotion
+[B/D#]poured out on the feet of Jesus
+
+<Bridge 3>
+[E]Our affection, our devotion
+[F#]poured out on the feet of Jesus
+
+<Bridge 4>
+[E]Heal my heart and make it [F#]clean
+[B]Open up my eyes to the [G#m]things unseen
+[E]Show me how to love like [F#]you have loved m[G#m]e
+[E]Break my heart for what breaks [F#]yours
+[B]Everything I am for your [G#m]kingdom's cause
+[E]As I walk from earth in[F#]to eternit[B]y

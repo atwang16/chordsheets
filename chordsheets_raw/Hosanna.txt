@@ -1,0 +1,70 @@
+<song> Hosanna
+<ccli> 4785835
+<composer> Brooke Ligertwood
+<key> D Major
+<bpm> 77
+<signature> 4/4
+<verse> Mark 11:9-10
+<arranger> ACF Worship
+
+<order>
+Intro
+Verse 1
+Verse 2
+Chorus
+Verse 3
+Verse 4
+Chorus
+Break
+Bridge
+Chorus
+Outro
+
+<Intro>
+| Bm / / / | F#m / / / | G / / / | F#m / / / |
+| Bm / / / | F#m / / / | G / / / | A / / / |
+
+<Verse 1>
+[D]I see the King of glory
+[Bm]Coming on the clouds with fire
+The whole earth [Em]shakes
+The whole earth [F#m]shakes, yeah[Bm]
+
+<Verse 2>
+[D]I see His love and mercy
+[Bm]Washing over all our sin
+The people [Em]sing
+The people [A]sing
+
+<Chorus>
+Hos[D]ann[G]a, Hos[A]ann[Bm]a
+Hos[G]anna in the [Bm]highe[A]st
+Hos[D/F#]ann[G]a, Hos[A]ann[Bm]a
+Hos[G]anna in the [A]highe[Bm]st
+
+<Verse 3>
+[D]I see a generation
+[Bm]Rising up to take their place
+With selfless [Em]faith
+With selfless [A]faith
+
+<Verse 4>
+[D]I see a near revival
+[Bm]Stirring as we pray and seek
+We're on our [Em]knees
+We're on our [A]knees
+
+<Break>
+|: Bm / / / | D / / / | Em / / / | F#m / / / :|
+
+<Bridge>
+[G]Heal my heart and make it [A]clean
+[D]Open up my eyes to the [Bm]things unseen
+[G]Show me how to love like Y[A]ou have loved m[Bm]e
+[G]Break my heart for what breaks [A]Yours
+[D]Everything I am for Your [Bm]kingdom's cause
+[G]As I walk from earth in[A]to eternity[Bm]
+
+<Outro>
+Hos[G]anna in the [A]highe[Bm]st
+Hos[G]anna in the [A]high[D]est

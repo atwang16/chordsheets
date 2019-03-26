@@ -1,0 +1,51 @@
+<song> One Way
+<ccli> 4222082
+<key> C Major
+<bpm> 134
+<signature> 4/4
+<verse> John 14:6
+<arranger> ACF Worship
+
+<order>
+Verse 1
+Chorus
+Verse 2
+Chorus (x2)
+Bridge (x4)
+Chorus (x2)
+
+<Intro>
+| C | Am | G | F |
+
+<Verse 1>
+[C] I lay my life down at Your feet
+[Am] 'Cause You're the only One I need
+[G] I turn to You and You are always [F]there
+[C] In troubled times it's You I seek
+[Am] I put You first that's all I need
+[G] I humble all I am all to [F]You
+
+<Chorus>
+[C] One way [G] Jesus
+[Am] You're the only One that [F]I could live for
+[C] One way [G] Jesus
+[Am] You're the only One that [A#]I could live for
+
+<Verse 2>
+[C] You are always, always there
+[Am] Every how and every where
+[G] Your grace abounds so deeply within [F]me
+[C] You will never ever change
+[Am] Yesterday today the same
+[G] Forever 'til forever meets no [F]end
+
+<Break>
+| C | G | Am | F |
+| Am | G | F | |
+
+<Bridge>
+[C] You are the Way
+The [G]Truth and the Life
+We [Am]live by faith and [F]not by sight
+For [Am]You
+We're [G]living all for [F]You

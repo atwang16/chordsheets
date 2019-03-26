@@ -1,0 +1,37 @@
+<song> Shout to the Lord
+<ccli> 1406918
+<key> C Major
+<bpm> 64
+<signature> 4/4
+<verse> 
+<arranger> ACF Worship
+
+<order>
+Verse 1
+Verse 2
+Chorus
+Verse 1
+Verse 2
+Chorus (x2)
+
+<Verse 1>
+[C] My Jesus,[G] my Saviour
+[Am]Lord there is n[G]one like Y[F]ou
+All of my d[C/E]ays [F]I want to p[G]raise
+The [Am]wonders of Your [A#]migh[F/A]ty [G]love
+
+<Verse 2>
+[C] My comfort,[G] my shelter
+[Am]Tower of r[G]efuge and s[F]trength
+Let every b[C/E]reath, [F]all that I a[G]m
+[Am]Never cease to [A#]wor[F/A]ship [G]You
+
+<Chorus>
+[C]Shout to the L[Am]ord all the E[F]arth, let us s[G]ing
+[C]Power and m[Am]ajesty, p[F]raise to the K[G]ing
+[Am]Mountains bow down and the s[F]eas will roar
+At the [G]sound [F]of Your [G]name
+[C]I sing for j[Am]oy at the w[F]ork of Your h[G]and
+For[C]ever I'll l[Am]ove You, fore[F]ver I'll s[G]tand
+[Am]Nothing compares to the p[F]romise I h[G]ave
+In [C]You

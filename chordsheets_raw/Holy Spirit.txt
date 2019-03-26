@@ -1,0 +1,42 @@
+<song> Holy Spirit
+<key> C Major
+<ccli> 6087919
+<bpm> 72
+<signature> 4/4
+<verse> Psalm 96:8-13
+<arranger> ACF Worship
+
+<order>
+Verse 1
+Verse 2
+Chorus
+Verse 1
+Verse 2
+Chorus
+Bridge (x4)
+Chorus (x2)
+
+<Verse 1>
+[C] There's nothing worth more
+That could ever come c[Fmaj7]lose
+No thing can compare
+You're our living [C]hope
+Your presence,[F]Lord
+
+<Verse 2>
+[C] I've tasted and seen
+Of the sweetest of l[Fmaj7]oves
+Where my heart becomes free
+And my shame is un[C]done
+Your presence, [F]Lord
+
+<Chorus>
+[C]Holy Spirit, You are welcome here
+Come [Fmaj7]flood this place and fill the [Dm]atmosphere
+Your [C]glory, God, is what our hearts long for
+To be [Fmaj7]overcome by Your [Dm]presence, Lord[C]
+Your presence, [Fmaj7]Lord
+
+<Bridge>
+[Fmaj7] Let us be[C/E]come more a[Dm]ware of Your [C/E]presence
+[Fmaj7] Let us ex[C/E]perience the g[Dm]lory of Your [C/E]goodness

@@ -1,0 +1,41 @@
+<song> Holy, Holy, Holy
+<ccli> 1156
+<key> C Major
+<bpm> 66
+<signature> 4/4
+<verse> N/A
+<arranger> Austin Wang
+<year> N/A
+<publisher> Public Domain
+
+<order>
+Verse 1
+Verse 2
+Verse 3
+Outro
+
+<Verse 1>
+[C]Holy, holy, holy
+[F]Lord, God Al[C]mighty
+[G/B]Early in the [Am]mor[G]ning our song shall [D]rise to [G]Thee
+[C]Holy, holy, holy
+[F]Merciful and [C]mighty
+[Am]God [C/E]in three [F]per[C/E]sons [F]blessed [G]Trini[C]ty
+
+<Verse 2>
+[C]Holy, [Am]holy, [G]holy
+[F]Though the darkness [C]hide Thee
+[G/B]Though the [C]eye of [Am]sinful [G]man thy glory [D]may not [G]see
+[C]Only [Am]Thou art [G]holy; [F]there is none beside [C]Thee
+[Am]Per[C/E]fect in [F]pow[C]er, in [F]love, and [G]puri[C]ty
+
+<Verse 3>
+[C]Holy, [Am]holy, [G]holy
+[F]Lord, God Al[C]mighty
+[G/B]All Thy [C]works shall [Am]praise Thy [G]name in earth and [D]sky and [G]sea
+[C]Holy, [Am]holy, [G]holy
+[F]Merciful and [C]mighty
+[Am]God [C/E]in three [F]per[C/E]sons [F]blessed [G]Trini[C]ty
+
+<Outro>
+[Am]God [C/E]in three [F]per[C/E]sons [F]blessed [G]Trini[C]ty

@@ -1,0 +1,26 @@
+<song> Forever
+<ccli> 7001228
+<composer> Kari Jobe, Brian Johnson, Jenn Johnson, Gabriel Wilson, Joel Taylor, Christa Black
+<key> E Major
+<bpm> 70
+<signature> 4/4
+<year> 2013
+<arranger> UCO Worship
+<verse> N/A
+<publisher> Kari Jobe Carnes Music, Worship Together Music, Bethel Music Publishing
+
+<order>
+Bridge (x2)
+Chorus (x2)
+
+<Bridge>
+We sing Hallelujah
+We sing Hallelujah
+We sing Hallelujah
+The Lamb has overcome (x2)
+
+<Chorus>
+Forever, He is glorified
+Forever, He is lifted high
+Forever, He is risen
+He is alive, He is alive!

@@ -1,0 +1,19 @@
+%\ProvidesPackage{musicslides}
+
+\usepackage{graphicx}
+\usepackage[absolute,overlay]{textpos}
+\setbeamercolor{normal text}{fg=white,bg=black}
+
+\newcommand{\bottomleft}[1]{%
+  \begin{textblock*}{\paperwidth}(2pt,0.94\textheight)%
+    {\fontsize{3}{4}\selectfont #1}
+  \end{textblock*}
+}
+
+\newcommand{\topleft}[1]{%
+  \begin{textblock*}{\paperwidth}(2pt,2pt)%
+    {\fontsize{2.5}{4}\selectfont #1}
+  \end{textblock*}
+}
+
+\newcommand{\textcopyright}{$^{\tiny{\textregistered}}$}

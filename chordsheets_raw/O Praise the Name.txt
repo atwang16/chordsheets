@@ -1,0 +1,51 @@
+<song> O Praise the Name
+<ccli> 7037787
+<composer> Marty Sampson et. al.
+<key> C Major
+<bpm> 72
+<signature> 4/4
+<verse> Romans 5:8
+<arranger> ACF Worship
+<year> 2015
+<publisher> Hillsong Music Publishing
+
+<order>
+Verse 1
+Verse 2
+Verse 3
+Chorus
+Verse 4
+Chorus
+
+<Verse 1>
+I cast my [C]mind to Calvary
+Where Jesus [Gadd4]bled and died for [Am]me
+I see His [F]wounds His hands His [C]feet
+My Saviour [Gadd4]on that cursed [C]tree
+
+<Verse 2>
+His body [C]bound and drenched in tears
+They laid Him [Gadd4]down in Joseph's [Am]tomb
+The entrance [F]sealed by heavy [C/E]stone
+Messiah [Gadd4]still and all a[C]lone
+
+<Chorus>
+O [C]praise the Name of the [F]Lord our [C]God
+O [Am]praise His Name for[G]evermore
+For [C/E]endless days we will [F]sing Your [Am]praise
+Oh [F]Lord oh [G]Lord our [C] God
+
+<Verse 3>
+Then on the [C]third at break of dawn
+The Son of [G]heaven rose a[Am]gain
+O trampled [F]death where is your [C]sting?
+The angels [G]roar for Christ the [C]King
+
+<Verse 4>
+He shall re[C]turn in robes of white
+The blazing [G]sun shall pierce the [Am]night
+And I will [F]rise among the [C]saints
+My gaze trans[G]fixed on Jesus' [C]face
+
+<Outro>
+Oh [F]Lord oh [G]Lord our [C] God

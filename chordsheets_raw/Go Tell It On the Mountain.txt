@@ -1,0 +1,41 @@
+<song> Go, Tell It On The Mountain
+<ccli> N/A
+<composer> Traditional Christmas
+<key> F Major
+<bpm> 120
+<signature> 4/4
+<verse> N/A
+<arranger> MIT-IV Worship
+<year> N/A
+<publisher> N/A
+
+<order>
+Chorus 1
+Verse 1
+Chorus 1
+Verse 2
+Chorus 1
+Verse 3
+Chorus 1 (x2)
+
+<Chorus 1>
+[F]Go, tell it on the mountain, [C]over the hills and [F]everywhere;
+[F]Go, tell it on the mountain that [F]Jesus [C]Christ is [F]born.
+
+<Verse 1>
+While [F]shephers kept their watching
+O'er [C] silent flocks by [F]night,
+Be[F]hold throughout the heavens
+There [C]shone a Holy [C7]Light.
+
+<Verse 2>
+The [F]shepherds feared and trembled
+When [C]lo! Above the [F]earth,
+Rang [F]out the angel chorus
+That [C]hailed our Savior's [C7]birth.
+
+<Verse 3>
+Down [F]in a lowly manger
+the [C]humble Christ was [F]born
+And [F]brought us God's salvation
+That [C]blessed Christmas [C7]morn.

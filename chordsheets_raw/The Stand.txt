@@ -1,0 +1,65 @@
+<song> The Stand
+<ccli> 4705248
+<composer> Joel Houston
+<key> G Major
+<bpm> 71
+<signature> 4/4
+<verse> Habakkuk 3:2
+<arranger> ACF Worship
+
+<order>
+Verse 1
+Verse 2
+Prechorus 1
+Verse 3
+Prechorus 1
+Prechorus 2
+Chorus
+Prechorus 3
+
+<Verse 1>
+[G]You stood before creation
+E[C]ternity in Your hands
+[G/B]You spoke the earth into m[Em]otion
+My soul now[C] to stand
+
+<Verse 2>
+[G]You stood before my failure
+And [C]carried the cross for my shame
+My [G/B]sin weighed upon Your s[Em]houlders
+My soul now[C] to stand
+
+<Prechorus 1>
+So what can I s[C]ay[Am]
+And what could I d[Em]o
+But offer this h[C]eart O God[D]
+Completely to [Em]You
+
+<Verse 3>
+So [G]I'll walk upon salvation
+Your [C]Spirit alive in me
+This [G/B]life to declare Your p[Em]romise
+My soul now[C] to stand
+
+<Prechorus 2>
+So what can I s[C]ay[Am]
+And what could I d[Em]o
+But offer this h[C]eart O God[D]
+Completely to [C]You
+
+<Break>
+|: C / G / | D / Em / :|
+
+<Chorus>
+[C] I'll [G]stand
+With [D]arms high and [Em]heart abandoned
+[C] In [G]awe of the [D]One who [Em]gave it all
+[C] I'll [G]stand
+My [D]soul Lord to [Em]You surrendered
+[C]All I a[G]m is Y[D]ours
+
+<Prechorus 3>
+So what can I s[C]ay[Am]
+And what could I d[Em]o
+But offer this h[C]eart O God[D]
+Completely to [G]You

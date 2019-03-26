@@ -1,0 +1,24 @@
+<song> 
+<ccli> 
+<composer> 
+<key> 
+<bpm> 
+<signature> 
+<verse> 
+<arranger> 
+<year> 
+<publisher> 
+
+<order>
+Intro
+Verse 1
+Chorus (x2)
+
+<Intro>
+| G | Em | C | D |
+
+<Verse 1>
+[G]This is an [Em]example l[C]ine[D]
+
+<Chorus>
+[Em] Here is another exam[C]ple [G]line

@@ -1,0 +1,51 @@
+<song> God of This City
+<ccli> 5037070
+<key> D Major
+<bpm> 78
+<signature> 4/4
+<verse> John 3:17
+<arranger> ACF Worship
+<year> 2006
+<publisher> sixsteps Music, worshiptogether.com songs
+
+<order>
+Intro
+Verse
+Prechorus
+Chorus 1
+Verse
+Prechorus
+Chorus 2
+Chorus 1
+Prechorus
+Chorus 2
+Chorus 1
+
+<Intro>
+| Bm | A | G |  |
+
+<Verse>
+You're the God of this[Bm] city
+You're the King of these[A] people
+You're the Lord of this[G] nation
+You a[Em]re
+You're the light in this[Bm] darkness
+You're the hope to the[A] hopeless
+You're the peace to the[Em] restless
+You[G] are
+
+<Prechorus>
+[Bm]There is [A]no one like o[G]ur God
+[Bm]There is [A]no one like o[G]ur God
+
+<Chorus 1>
+For [G]greater things have yet to come
+And [A]greater things are still to be done in this[D] city[A] [G]
+[G]Greater things have yet to come
+And [A]greater things are still to be done here[D]
+
+<Chorus 2>
+For [G]greater things have yet to come
+And [A]greater things are still to be done in this[D] city[A] [G]
+[G]Greater things have yet to come
+And [A]greater things are still to be done in this[D] city[A] [G]

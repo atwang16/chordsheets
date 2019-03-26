@@ -1,0 +1,82 @@
+<song> Glory to Glory
+<ccli> 7044057
+<key> D Major
+<bpm> 72
+<signature> 4/4
+<verse> 2 Corinthians 3:18
+<arranger> Austin Wang
+
+<order>
+Intro (x2)
+Verse 1
+Verse 2
+Chorus 1
+Verse 3
+Chorus 1
+Bridge (x2)
+Verse 4
+Chorus 2
+Chorus 3
+
+<Intro>
+| Bm G | D |
+
+<Verse 1>
+[Bm] Cre[G]ated from d[D]ust
+[Bm] You [G]came and You [D]lived among us
+[Bm] You [G]took on our f[D]rame
+You walked in our p[Bm]ain
+And now You’re [G]taking us h[D]igher
+
+<Verse 2>
+[Bm] You [G]stepped into t[D]ime
+[Bm] You [G]laid down Your l[D]ife to save us
+[Bm] You [G]took all our s[D]hame
+On the cross it was l[Bm]aid
+And now You’re [G]taking us h[D]igher
+
+<Chorus 1>
+We go from [Bm]glory to [G]glory to [D]glory
+We’ll never be the s[Bm]ame
+We’ll [G]never be the s[D]ame
+We go from [Bm]glory to [G]glory to [D]glory
+We’re forever c[Bm]hanged,
+[G]Forever c[D]hanged
+
+<Verse 3>
+[Bm] You [G]call me Your f[D]riend
+[Bm] Brought [G]into Your e[D]ndless kingdom
+[Bm] By the [G]blood I was m[D]ade
+No longer a s[Bm]lave
+And now You’re [G]taking us h[D]igher
+
+<Bridge>
+[G] Until we reach that day
+[D]Love conquers everyt[A]hing
+We’ll cry an anthem singing [Bm]Holy, [A]Holy
+[G] And when we see that day
+[D]We’re standing face to f[A]ace
+We’ll shout an anthem singing [Bm]Holy, [A]Holy
+
+<Verse 4>
+[Bm] You [G]took on the g[D]rave
+[Bm] So [G]not even d[D]eath can shake us
+[Bm] The [G]Victor has w[D]on
+And Heaven has c[Bm]ome
+And now You’re [G]taking us h[D]igher
+And now You’re [G]taking us h[D]igher
+
+<Chorus 2>
+We go from [Bm]glory to [G]glory to [D]glory
+We’ll never be the s[Bm]ame
+We’ll [G]never be the s[D]ame
+You take us [Bm]higher and [G]higher and [D]higher
+We’re forever c[Bm]hanged,
+[G]Forever c[D]hanged
+
+<Chorus 3>
+We go from [Bm]glory to [G]glory to [D]glory
+We go from [Bm]glory to [G]glory to [D]glory
+You take us [Bm]higher and [G]higher and [D]higher
+We’re forever c[Bm]hanged,
+[G]Forever c[D]hanged

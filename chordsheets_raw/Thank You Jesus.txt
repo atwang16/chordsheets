@@ -1,0 +1,52 @@
+<song> Thank You Jesus
+<ccli> 7004672
+<composer> Hannah Hobbs, Matt Crocker
+<key> C Major
+<bpm> 79
+<signature> 4/4
+<verse> Psalm 100:4
+<arranger> ACF Worship
+<year> 2013
+<publisher> Hillsong Music Publishing
+
+<order>
+Verse 1
+Chorus
+Verse 2
+Chorus (x2)
+Break
+Bridge (x2)
+Break
+Bridge (x2)
+Chorus
+
+<Verse 1>
+[C]Grace that flows like a river
+[G]Washing [F]over [C]me
+[C]Fount of heaven, love of Christ
+[G]Over[F]flow in [C]me
+
+<Chorus>
+Thank You, [F]Jesus
+You set me [C]free
+Christ my [F]Saviour
+You rescued [C]me
+
+<Verse 2>
+[C]Take this life delivered
+A [G]vessel [F]of Your [C]love
+[C]Wholly now devoted
+To [G]see Your [F]kingdom [C]come
+
+<Break>
+| F | G | Am | C/E |
+
+<Bridge>
+[F] You've given me l[G]ife
+You've opened my e[Am]yes
+I love You, L[C/E]ord
+I love You, L[F]ord
+You've entered my h[G]eart
+You've set me ap[Am]art
+I love You, L[C/E]ord
+I love You, L[F]ord

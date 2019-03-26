@@ -1,0 +1,64 @@
+<song> How Great Is Our God
+<ccli> 4348399
+<key> A Major
+<bpm> 65
+<signature> 4/4
+<verse> Psalm 104:1-3
+<arranger> ACF Worship
+<year> 2004
+<publisher> sixsteps Music, worshiptogether.com songs, Wondrously Made Songs
+
+<order>
+Verse 1
+Verse 2
+Chorus
+Verse 3
+Verse 4
+Chorus
+Bridge (x2)
+Chorus (x4)
+Outro
+
+<Verse 1>
+The [A]splendor of a king
+[F#m7]Clothed in majesty
+Let all the earth rej[Dsus2]oice
+All the earth rejoice
+
+<Verse 2>
+He w[A]raps Himself in light,
+And d[F#m7]arkness tries to hide
+And trembles at His v[Dsus2]oice
+Trembles at His voice
+
+<Chorus>
+How g[A]reat is our God
+Sing with m[E/G#]e
+How [F#m7]great is our God
+And all will [E]see
+How [D2]great, how g[E]reat is our G[A]od
+
+<Verse 3>
+[A]Age to age He stands
+And t[F#m7]ime is in His hands
+Beginning and the e[Dsus2]nd
+Beginning and the end
+
+<Verse 4>
+The G[A]odhead Three in One
+[F#m7]Father, Spirit and Son
+The Lion and the L[Dsus2]amb
+The Lion and the L[E]amb
+
+<Bridge>
+[A]Name above all names[E/G#]
+[F#m7]Worthy of all praise[E]
+My [D2]heart will sing
+How g[E]reat is our G[A]od
+
+<Outro>
+How g[A]reat is our God
+Sing with m[E/G#]e
+How [F#m7]great is our God
+And all will [E]see
+How [D2]great, how g[E]reat is our G[A]od

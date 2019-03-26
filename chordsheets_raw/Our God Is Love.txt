@@ -1,0 +1,61 @@
+<song> Our God Is Love
+<ccli> 5636866
+<key> E Major
+<bpm> 
+<signature> 4/4
+<verse> 1 John 4:9-10
+<arranger> Austin Wang
+
+<order>
+Intro
+Verse 1
+Verse 2
+Chorus
+Verse 3
+Verse 4
+Chorus
+Bridge 1
+Bridge 2
+Chorus
+
+<Intro>
+| E |
+
+<Verse 1>
+[E] Every soul every beating heart
+[B] Every nation and every tongue
+[C#m] Come find [B]hope in the love of the [A]Father
+
+<Verse 2>
+[E] All creation will bow as one
+[B] Lift their eyes to the risen Son
+[C#m] Jesus [B]Savior forever and [A]after
+
+<Chorus>
+This is [E]love[B]
+Jesus c[C#m]ame and died and g[A]ave His life for [E]us[B]
+Let our v[C#m]oices rise and s[A]ing for all He's d[C#m]one
+Our [B]fear is o[A]vercome
+Our God is [C#m]love[A][B]
+Our God is [C#m]love[A][B]
+
+<Verse 3>
+[E] Every distant and broken heart
+[B] Every prayer every outstretched arm
+[C#m] Finding [B]hope in the love of the [A]Father
+
+<Verse 4>
+[E] Age to age let His praises rise
+[B] All the glory for all of time
+[C#m] Jesus [B]Savior forever and [A]after
+
+<Bridge 1>
+[A] Age to age[E] we will be [B]singing
+In the l[C#m]ight of all He's d[A]one
+All the earth[E] everyone [B]singing
+In the w[C#m]onder of His [A]love
+
+<Bridge 2>
+[A] Age to age[E] we will be [B]singing
+In the l[C#m]ight of all He's d[A]one
+All the earth[E] everyone [B]singing

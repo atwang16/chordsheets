@@ -1,0 +1,74 @@
+<song> What a Beautiful Name
+<ccli> 7068424
+<key> D Major
+<bpm> 68
+<signature> 4/4
+<verse> John 17:24
+<arranger> ACF Worship
+
+<order>
+Verse 1
+Chorus 1
+Verse 2
+Chorus 2
+Bridge 1
+Bridge 2
+Chorus 3
+Bridge 2
+Chorus 3
+
+
+<Verse 1>
+[D] You were the Word at the beginning
+One With [G]God the [Bm]Lord Most [A]High
+[Bm] Your hidden glory i[A/C#]n cre[D]ation
+Now re[G]vealed in [Bm]You our [A]Christ
+
+<Chorus 1>
+What a beautiful Name it [D]is
+What a beautiful Name it [A]is
+The Name of J[Bm]esus C[A]hrist my K[G]ing
+What a beautiful Name it [D/F#]is
+Nothing compares to t[A]his
+What a beautiful Name it i[Bm]s
+The N[A]ame of J[G]esus
+
+<Verse 2>
+[D] You didn't want heaven without us
+So Jesus, [G]You brought [Bm]heaven [A]down
+[Bm] My sin was great, Your l[A/C#]ove was [D]greater
+What could [G]sepa[Bm]rate us [A]now
+
+<Chorus 2>
+What a wonderful Name it [D]is
+What a wonderful Name it [A]is
+The Name of J[Bm]esus C[A]hrist my K[G]ing
+What a wonderful Name it [D/F#]is
+Nothing compares to t[A]his
+What a wonderful Name it i[Bm]s
+The N[A]ame of J[G]esus
+
+<Break>
+| G / A / | Bm / F#m / |
+| G / A / | Bm / A / |
+
+<Bridge 1>
+Death could not h[G]old You, the veil tore bef[A]ore You
+You silenced the b[Bm]oast, of sin and g[F#m]rave
+The heavens are r[G]oaring, the praise of Your g[A]lory
+For You are r[Bm]aised to life ag[A]ain
+
+<Bridge 2>
+You have no r[G]ival, You have no e[A]qual
+Now and fore[Bm]ver, God You r[F#m]eign
+Yours is the K[G]ingdom, Yours is the g[A]lory
+Yours is the N[Bm]ame, above all n[A]ames
+
+<Chorus 3>
+What a powerful Name it [D]is
+What a powerful Name it [A]is
+The Name of J[Bm]esus C[A]hrist my K[G]ing
+What a powerful Name it [D/F#]is
+Nothing compares to t[A]his
+What a powerful Name it i[Bm]s
+The N[A]ame of J[G]esus

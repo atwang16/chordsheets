@@ -1,0 +1,78 @@
+<song> Here in the Presence
+<ccli> 7067560
+<composer> Chris Brown, Mack Brock, Steven Furtick
+<key> C Major
+<bpm> 63
+<signature> 4/4
+<verse> Hebrews 4:16
+<arranger> ACF Worship
+<year> 2017
+<publisher> Music by Elevation Worship Publishing
+
+<order>
+Intro
+Verse 1
+Chorus
+Verse 2
+Chorus (x2)
+Tag
+Break
+Bridge 1 (x2)
+Bridge 2 (x2)
+Bridge 3
+Bridge 4
+Bridge 5 (x2)
+
+<Intro>
+| C | C Dm | Am | Am F |
+
+<Verse 1>
+[C] Here I lay my b[G/B]urdens [Am]down [F]
+[C] Lose my worries i[G/B]n Your [Am]love [F]
+[C] Casting every c[G/B]are on [Am]You [F]
+[C] I have carried t[G/B]hem e[Am]nough [G]
+
+<Chorus>
+[F] We're not a[C]lone
+Here wit[Am]hin His [G]love
+[F] Emmanu[C]el
+He is s[Am]till with [G]us
+
+<Verse 2>
+[C] When the world bec[G/B]omes too [Am]much [F]
+[C] Near the cross I w[G/B]ill re[Am]main [F]
+[C] Until every [G/B]fear is [Am]stilled [F]
+[C] At the mention [G/B]of Your [Am]name [G]
+
+<Tag>
+You are with us [C]now
+
+<Break>
+| C | / / / G/B |
+| Am | / / / G |
+| F | G |
+
+<Bridge 1>
+[C] Mercy is falling, falli[G/B]ng
+[Am] Lift up your hands rec[G]eive it n[F]ow
+Here in the p[G]resence of the Lord
+
+<Bridge 2>
+[C] I know your past is brok[G/B]en
+[Am] You can move on it's o[G]ver n[F]ow
+Here in the p[G]resence of the Lord
+
+<Bridge 3>
+[C] Tired of running, runn[G/B]ing
+[Am] Be still and know He's i[G]n cont[F]rol
+Here in the p[G]resence of the Lord
+
+<Bridge 4>
+[C] Pour out your heart before H[G/B]im
+[Am] Open your arms He'll h[G]old you n[F]ow
+Here in the p[G]resence of the Lord
+
+<Bridge 5>
+[C] Mercy is falling, falli[G/B]ng
+[Am] Lift up your hands rec[G]eive it n[F]ow
+You're in the p[G]resence of the Lord

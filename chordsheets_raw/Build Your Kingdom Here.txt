@@ -1,0 +1,60 @@
+<song> Build Your Kingdom Here
+<ccli> 6186078
+<key> D Major
+<bpm> 
+<signature> 4/4
+<verse> Matthew 6:33-34
+<arranger> Austin Wang
+
+<order>
+Verse 1
+Prechorus
+Verse 2
+Prechorus
+Chorus
+Verse 3
+Prechorus
+Chorus (x2)
+
+<Verse 1>
+Come [G]set Your rule and [D]reign
+In [G]our hearts a[D]gain
+In[G]crease in us we [G]pray
+Un[A]veil why we're made
+Come [G]set our hearts a[D]blaze with hope
+Like [G]wildfire in our [D]very souls
+[G]Holy Spirit [D]come invade us [A]now
+
+<Prechorus>
+[G]We [D]are Your [A]Church
+[G]We [D]need Your [A]power
+In [D]us
+
+<Verse 2>
+We [G]seek Your kingdom [D]first
+We [G]hunger and we [D]thirst
+Re[G]fuse to waste our [D]lives
+For [A]You're our joy and prize
+To [G]see the captive [D]hearts released
+The [G]hurt; the sick; the [D]poor at peace
+[G]We lay down our [D]lives for Heaven's [A]cause
+
+<Chorus>
+Build Your [A]kingdom [Bm]here
+Let the [G]darkness [D]fear
+Show Your [A]mighty [Bm]hand
+Heal our [G]streets and [A]land
+Set Your [A]church on [Bm]fire
+Win this [G]nation [D]back
+Change the [A]atmo[Bm]sphere
+Build [G]Your kingdom [A]here
+We [D]pray
+
+<Verse 3>
+Un[G]leash Your kingdom's [D]power
+Rea[G]ching the near and [D]far
+No [G]force of hell can [D]stop
+Your [A]beauty changing hearts
+You [G]made us for much [D]more than this
+A[G]wake the kingdom [D]seed in us
+[G]Fill us with the [D]strength and love of [A]Christ

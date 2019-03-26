@@ -1,0 +1,66 @@
+<song> I Saw the Light
+<ccli> 45064
+<composer> Hank Williams Sr.
+<key> G Major
+<bpm> 0
+<signature> 4/4
+<verse> N/A
+<arranger> UCO Worship
+<year> 1975
+<publisher> Sony/ATV Acuff Rose Music
+
+<order>
+Chorus 1
+Verse 1
+Chorus 1
+Verse 2
+Chorus 1
+Verse 3
+Chorus 1
+Verse 4
+Chorus 2
+Verse 5
+Chorus 2
+Verse 6
+Chorus 2
+Chorus 2
+
+<Chorus 1>
+I saw the light, I saw the light
+No more darkness, no more night
+Now I'm so happy, no sorrow in sight
+Praise the Lord, I saw the light
+
+<Verse 1>
+I've wandered so aimless, life filled with sin
+I wouldn't let my dear Saviour in
+Then Jesus came like a stranger in the night
+Praise the Lord, I saw the light 
+
+<Verse 2>
+Just like a blind man I wandered alone
+Worries and fear I claimed for my own
+Then like a blind man who God gave back his sight
+Praise the Lord, I saw the light 
+
+<Verse 3>
+I was a fool to wander and stray
+For straight is the gate and narrow the way
+Now I have traded the wrong for the right
+Praise the Lord I saw the light.
+
+<Verse 4>
+Some glad morning when this life is o'er, I'll fly away
+To a home on God's celestial shore, I'll fly away
+
+<Chorus 2>
+I'll fly away, O glory, I'll fly away
+When I die, hallelujah, by and by I'll fly away
+
+<Verse 5>
+When the shadows of this life have grown, I'll fly away
+Like a bird from prison bars has flown, I'll fly away
+
+<Verse 6>
+Just a few more weary days, and then, I'll fly away
+To a land where joys shall never end, I'll fly away

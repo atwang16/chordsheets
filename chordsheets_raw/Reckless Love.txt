@@ -1,0 +1,59 @@
+<song> Reckless Love
+<ccli> 7089641
+<key> B Major
+<bpm> 112
+<signature> 4/4
+<verse> Luke 15:1-10
+<arranger> ACF Worship
+
+<order>
+Intro
+Verse 1
+Chorus
+Break
+Verse 2
+Chorus
+Break
+Bridge 1
+Bridge 2 (x2)
+Chorus
+
+<Intro>
+|: G#m | F# | E | B :|
+
+<Verse 1>
+[G#m] Before I spoke a [F#]word, You were singing [E]over me
+[G#m] You have been [F#]so, so good[E] to me
+[G#m] Before I took a [F#]breath, You breathed Your [E]life in me
+[G#m] You have been [F#]so, so kind[E] to me
+
+<Chorus>
+Oh, the [G#m]overwhelming, [F#]never-ending, [E]reckless love of G[B]od
+Oh, it [G#m]chases me down, [F#]fights ‘til I'm found, [E]leaves the ninety-n[B]ine
+I couldn't e[G#m]arn it, I don't des[F#]erve it, still You [E]give Yourself aw[B]ay
+Oh, the [G#m]overwhelming, [F#]never-ending, [E]reckless love of [B]God
+
+<Break>
+|: G#m | F# | E | B :|
+
+<Verse 2>
+[G#m] When I was Your [F#]foe, still Your love [E]fought for me
+[G#m] You have been [F#]so, so good[E] to me
+[G#m] When I felt no [F#]worth, You paid it [E]all for me
+[G#m] You have been [F#]so, so kind[E] to me
+
+<Bridge 1>
+[G#m] There's no shadow You won't light up
+Mountain You won't climb up
+Coming after me
+There's no wall You won't kick down
+Lie You won't tear down
+Coming after me
+
+<Bridge 2>
+[G#m] There's no shadow You won't [F#]light up
+Mountain You won't [E]climb up
+Coming after m[B]e
+[G#m] There's no wall You won't [F#]kick down
+Lie You won't [E]tear down
+Coming after m[B]e

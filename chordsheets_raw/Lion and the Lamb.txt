@@ -1,0 +1,63 @@
+<song> Lion and the Lamb
+<ccli> 7038281
+<key> C Major
+<bpm> 90
+<signature> 4/4 
+<verse> Isaiah 14:27
+<arranger> Austin Wang
+
+<order>
+Intro (x2)
+Verse 1
+Chorus
+Break 1 (x2)
+Verse 2
+Chorus
+Break 2
+Bridge 1 (x3)
+Bridge 2
+Chorus
+Outro (x2)
+
+<Intro>
+| C | / / Dm / | F | |
+
+<Verse 1>
+He's [C]coming on the clouds
+Kings and kingdoms [Dm]will bow [F]down
+[Am]Every chain will break
+As [G]broken hearts declare His [F]praise
+For who can stop the [G]Lord almighty?
+
+<Chorus>
+[C] Our God is the Lion, the [G/B]Lion of [Am]Judah
+He’s roaring with power and [G]fighting our b[F]attles
+Every knee will [G]bow before Him
+[C] Our God is the Lamb, the [G/B]Lamb that was [Am]slain
+For the sins of the world, His [G]blood breaks the [F]chains
+Every knee will [G]bow before the Lion and the [F]Lamb
+Every knee will [G]bow before Him
+
+<Break 1>
+| C | / / Dm / | F | |
+
+<Verse 2>
+[C]Open up the gates
+Make way before the [Dm]King of [F]Kings
+The [Am]God who comes to save
+Is [G]here to set the captives [F]free      
+For who can stop the [G]Lord almighty?
+
+<Break 2>
+| Dm | C/E | F | G |
+
+<Bridge 1>
+[Dm] Who can stop the [C/E]Lord almighty?
+[F] Who can stop the [G]Lord almighty?
+
+<Bridge 2>
+[Dm] Who can stop the [C/E]Lord almighty?
+[F] Who can stop the [G]Lord?
+
+<Outro>
+| C | / / Dm / | F | |

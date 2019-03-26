@@ -1,0 +1,45 @@
+<song> O Come, All Ye Faithful
+<ccli> N/A
+<composer> Traditional Christmas
+<key> D major
+<bpm> 120
+<signature> 4/4
+<verse> N/A
+<arranger> MIT-IV Worship
+<year> N/A
+<publisher> N/A
+
+<order>
+Verse 1
+Chorus 1
+Verse 2
+Chorus 1
+Verse 3
+Chorus 1 (x2)
+
+<Verse 1>
+O [D]come, all ye [A]faithful,
+[D/F#]joyful [G]and tri[A]umphant,
+O [Bm]come ye, O [A]come ye to [Esus6]Be-[E]thle[A]hem.
+[D]Come and be[G]hold [D]him,
+[Bm]Born the [E7]King of [A]angels;
+
+<Chorus 1>
+O [D]come, let us adore Him,
+O [D]come, let us a[Bm]dore [A]Him,
+O [Em]come, let [E]us a[A]dore [G]Him,
+[D/A]Chri[A]st the [D]Lord.
+
+<Verse 2>
+[D]Sing, choirs of [A]angels,
+[D/F#]Sing in [G]exul[A]tation;
+O [Bm]sing, all ye [A]citizens of  [Esus6]He-[E]aven a[A]bove!
+[D]Glory to [G]God, [D]all
+[Bm]glory [E7]in the [A]highest;
+
+<Verse 3>
+[D]Yea, Lord, we [A]greet Thee,
+[D/F#]born this [G]happy [A]morning;
+[Bm]Jesus, to [A]Thee be all [Esus6]glo-[E]ry [A]giv'n;
+[D]Word of the [G]Fa[D]ther,
+[Bm]now in [E7]flesh a[A]ppearing;

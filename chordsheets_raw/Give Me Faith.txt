@@ -1,0 +1,64 @@
+<song> Give Me Faith
+<ccli> 5680939
+<key> A Major
+<bpm> 72
+<signature> 4/4
+<verse> Psalm 25:5
+<arranger> ACF Worship
+
+<order>
+Intro
+Verse 1
+Prechorus
+Chorus 1
+Verse 2
+Prechorus
+Chorus 2
+Bridge
+Chorus 1
+Chorus 2
+Bridge
+
+<Intro>
+| D / A / | E / F#m / |
+| D / A / | F#m / E / |
+
+<Verse 1>
+[A] I need Y[E]ou to [F#m]soften my heart
+And [D]break me apart
+I need [A]You to [E]open my eyes
+And [F#m]see that You're shaping my [D]life
+
+<Prechorus>
+[A/C#]All [D]I [E]am
+[A/C#]I [D]sur[E]render
+
+<Chorus 1>
+[D] Give me f[A]aith to [E]trust what You [F#m]say
+[D] That You're [A]good, and [F#m]Your love is [E]great
+[Bm7] I'm b[D]roken in[A]side, I g[E]ive You my l[D]ife[E]
+
+<Verse 2>
+[A] I need Y[E]ou to [F#m]soften my heart
+And [D]break me apart
+I need [A]You to [E]pierce through the dark
+And [F#m]cleanse every part of [D]me
+
+<Chorus 2>
+[D] Give me f[A]aith to [E]trust what You [F#m]say
+[D] That You're [A]good, and [F#m]Your love is [E]great
+[Bm7] I'm b[D]roken in[A]side, I g[E]ive You my l[D]ife
+
+<Break>
+| D / A / | E / F#m / |
+| D / A / | F#m / E / |
+
+<Bridge>
+[D] I may be [A]weak
+[E] Your Spirit's [F#m]strong in me
+[D] My flesh may [A]fail
+[F#m] My God You [E]never will
+[D] I may be [A]weak
+[E] Your Spirit's [F#m]strong in me
+[D] My flesh may [A]fail
+[F#m] My God You [E]never will

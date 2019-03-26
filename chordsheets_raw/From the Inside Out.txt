@@ -1,0 +1,72 @@
+<song> From the Inside Out
+<ccli> 4705176
+<composer> Joel Houston
+<key> C Major
+<bpm> 140
+<signature> 4/4
+<verse> Isaiah 60:19
+<arranger> ACF Worship
+<year> 2005
+<publisher> Hillsong Music Publishing
+
+<order>
+Intro (x2)
+Verse 1
+Prechorus
+Break (x2)
+Verse 2
+Prechorus
+Chorus 1
+Break (x2)
+Verse 2
+Prechorus
+Chorus 1
+Chorus 2
+Chorus 1
+Chorus 2 (x2)
+Outro
+
+<Intro>
+| F | C G |
+
+<Verse 1>
+A thousand [F]times I've failed
+Still your [C]mercy rem[G]ains
+Should I [F]stumble again
+Still I'm c[C]aught in your [G]grace
+
+<Prechorus>
+Everl[Am]asting
+Your [Fmaj7]light will shine when [C]all else [G]fades
+Never e[Am]nding
+Your [Fmaj7]glory goes be[C]yond all [G]fame
+
+<Break>
+| F | C G |
+
+<Verse 2>
+Your will a[F]bove all else
+My p[C]urpose rem[G]ains
+The art of [F]losing myself
+In b[C]ringing you [G]praise
+
+<Chorus 1>
+[F] My heart and my s[C]oul
+I give you cont[Am]rol
+Consume me from the [G]inside out Lord
+[F] Let justice and p[Am7]raise
+Become my e[G]mbrace
+To love you from the [Fmaj7]inside out
+
+<Chorus 2>
+Everl[Am]asting
+Your [Fmaj7]light will shine when [C]all else [G]fades
+Never e[Am]nding
+Your [Fmaj7]glory goes be[C]yond all [G]fame
+And the c[C]ry of my h[F]eart is to b[G]ring you [Am]praise
+From the i[F]nside [G]out
+Lord my s[F]oul cries [G]out
+
+<Outro>
+From the i[F]nside [G]out
+Lord my s[F]oul cries [G]out

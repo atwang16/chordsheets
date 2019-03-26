@@ -1,0 +1,75 @@
+<song> God, You're So Good
+<ccli> 7105729
+<composer> Brooke Ligertwood, Scott Ligertwood, Kristian Stanfill, Brett Younker
+<key> C Major
+<bpm> 70
+<signature> 4/4
+<verse> Psalm 107
+<arranger> ACF Worship
+<year> 2018
+<publisher> SHOUT! Music Publishing, sixsteps Music, worshiptogether.com songs
+
+<order>
+Verse 1
+Chorus
+Verse 2
+Chorus (x2)
+Bridge 1
+Bridge 2
+Verse 3
+Chorus
+
+<Intro>
+| C | F | C | G |
+
+<Verse 1>
+[C] Amazing love
+[F] That welcomes me
+[C] The kindness of m[G]ercy
+[C] That bought with blood
+[F] Wholeheartedly
+[Am] My soul undes[G]erving
+
+<Chorus>
+[C]God, you're so [G]good
+God, you're so [C]good
+[Am]God, you're so [F]good
+You're so [C]good [G]to [C]me
+
+<Verse 2>
+[C] Behold the cross
+[F] Age to age
+[C] Hour by H[G]our
+[C] The dead are raised
+[F] The sinner saved
+[Am] The work of your p[G]ower
+
+<Bridge 1>
+I am b[G]lessed
+I am called
+I am h[Am]ealed
+I am whole
+I am s[F]aved in Jesus' n[C]ame
+Highly f[G]avored
+Anointed
+F[Am]illed with Your power
+For the g[F]lory of Jesus' n[C]ame
+
+<Bridge 2>
+I am b[G]lessed
+I am called
+I am h[Am]ealed
+I am whole
+I am s[F]aved in Jesus' n[C]ame
+Highly f[G]avored
+Anointed
+F[Am]illed with Your power
+For the g[F]lory of Jesus' n[G]ame
+
+<Verse 3>
+[C] And should this life
+[F] Bring suffering
+[C] Lord, I will rem[G]ember
+[Am] What Calvary
+[F] Has bought for me
+[C] Both now and fore[G]ver

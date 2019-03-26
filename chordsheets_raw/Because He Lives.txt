@@ -1,0 +1,42 @@
+<song> Because He Lives
+<ccli> N/A
+<composer> Traditional
+<key> A major
+<bpm> 60
+<signature> 4/4
+<verse> N/A
+<arranger> MIT-IV Worship
+<year> N/A
+<publisher> N/A
+
+<order>
+Verse 1
+Chorus 1
+Verse 2
+Chorus 1
+Verse 3
+Chorus 1 (x2)
+
+<Verse 1>
+God sent His [A]Son, they called Him [D]Jesus;
+He came to [A]love, heal and for[E]give; [E7]
+He lived and [A]died [A7] to buy my [D]pardon,
+An empty [A]grave is there to [E]prove my Savior [A]lives!
+
+<Chorus 1>
+[A]Because He lives[A7], I can face to[D]morrow,
+Because He [A]lives, all fear is [E]gone;
+Because I [A/E D A]know He holds the [D]future,
+And life is [A]worth the living [E]just because He [A]lives!
+
+<Verse 2>
+How sweet to [A]hold a newborn [D]baby,
+And feel the [A]pride and joy he [E]gives; [E7]
+But greater st[A]ill [A7] the calm as[D]surance:
+This child can [A]face uncertain [E]days because He [A] lives!
+
+<Verse 3>
+And then one [A]day, I'll cross the [D]river,
+I'll fight life's f[A]inal war with [E]pain; [E7]
+And then, as [A]death [A7] gives way to [D]vict'ry,
+I'll see the [A]lights of glory [E]and I'll know He [A]lives!

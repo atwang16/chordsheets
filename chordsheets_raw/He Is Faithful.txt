@@ -1,0 +1,60 @@
+<song> He Is Faithful
+<ccli> 6087902
+<key> G Major
+<bpm> 125
+<signature> 4/4
+<verse> Psalm 36:5
+<arranger> ACF Worship
+
+<order>
+Intro
+Verse 1
+Prechorus
+Chorus
+Break 1
+Verse 2
+Prechorus
+Chorus
+Break 2
+Bridge (x2)
+Tag
+
+<Intro>
+| G | | C | |
+
+<Verse 1>
+[G] I have heard a sound[Cmaj7] coming on the wind
+[G] Changing hearts and minds,[Cmaj7] healing brokenness
+[Em] I feel a generation[Cmaj7] breaking through despair
+[Em] I hear a generation[Cmaj7] full of faith declare
+
+<Prechorus>
+[D] And our s[Em]ong, it will [C]be
+[D] Out of the d[Em]arkness we will [C]rise and sing
+
+<Chorus>
+[G]He is faithful, [C]He is glorious
+And [Em]He is Jesus and [C]all my hope is in Him
+[G]He is freedom, [C]He is healing right now
+[Em]He is hope and joy and [C]love and peace and life
+
+<Break 1>
+| G | |
+
+<Verse 2>
+[G] I have seen a light[Cmaj7] like the break of dawn
+[G] Giving blind men sight,[Cmaj7] letting lame men walk
+[Em] I see a generation[Cmaj7] with resurrection life
+[Em] We are a generation[Cmaj7] filled with the power of Christ
+
+<Break 2>
+| G | | C | |
+
+<Bridge>
+[Em] He has p[C]aid the highest p[G]rice[D]
+[Em] He has p[C]roven His great l[G]ove for u[D]s
+[Em] We will p[C]raise Him with our l[G]ives[D]
+[Em] And proc[C]laim our love for [G]Him, o[D]h
+
+<Tag>
+[Em] And proc[C]laim our love for [G]Him
