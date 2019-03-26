@@ -78,7 +78,7 @@ generated chordsheets and slides, you can change the defaults in the `$ROOT/CONF
 ## Testing
 
 This project has so far only been tested on the MacOS operating system with Python 3.6.x. Please report all bugs to
-Austin Wang, but note that limited support can be provided to UNIX-based systems.
+Austin Wang, but note that support can only be provided to UNIX-based systems.
 
 ## Feature Request
 
