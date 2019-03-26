@@ -85,16 +85,16 @@ Austin Wang, but note that limited support can be provided to UNIX-based systems
 If you would like to contribute features, please contact Austin Wang.
 
 Planned future feature improvements:
-[ ] Add support for MusicLine repeats
-[ ] Use HTML parser instead of Regex parser for CCLI requests
-[ ] Modify raw chordsheet to insert publication information for later offline chordsheet generation
-[ ] Add divider for paragraph breaks in chordsheet or slide breaks in slides
-[ ] Add support for beat numbers
-[ ] Add support for inline repeats
-[ ] Add support for guitar chords in sheet
-[ ] Better measure representation (better spacing?)
-[ ] More accurate internal representation of notes as whole tones and semitones
-[ ] Auto chord filling for similar sections
-[ ] Add support for converting Ultimate Guitar Tab style chordsheets into raw chordsheet format
-[ ] Detection of need for two columns (so lines don't have to be fit if only one column is used)
-[ ] Allow for comments in raw chordsheet (using //)
+- [ ] Add support for MusicLine repeats
+- [ ] Use HTML parser instead of Regex parser for CCLI requests
+- [ ] Modify raw chordsheet to insert publication information for later offline chordsheet generation
+- [ ] Add divider for paragraph breaks in chordsheet or slide breaks in slides
+- [ ] Add support for beat numbers
+- [ ] Add support for inline repeats
+- [ ] Add support for guitar chords in sheet
+- [ ] Better measure representation (better spacing?)
+- [ ] More accurate internal representation of notes as whole tones and semitones
+- [ ] Auto chord filling for similar sections
+- [ ] Add support for converting Ultimate Guitar Tab style chordsheets into raw chordsheet format
+- [ ] Detection of need for two columns (so lines don't have to be fit if only one column is used)
+- [ ] Allow for comments in raw chordsheet (using //)
