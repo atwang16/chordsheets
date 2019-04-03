@@ -1,0 +1,78 @@
+<song> This I Believe
+<ccli> 7018338
+<key> C Major
+<bpm> 71
+<signature> 4/4
+<verse> John 3:16
+<arranger> ACF Worship
+
+<order>
+Intro
+Verse 1
+Chorus 1
+Break
+Verse 2
+Chorus 2
+Bridge (x2)
+Chorus 1 (x2)
+Tag
+Chorus 3
+Chorus 1 (x2)
+Tag
+
+<Intro>
+|: F / / Am | G / / C/E :|
+
+<Verse 1>
+[F] Our Father ever[Am]lasting
+[G] The all creat[C/E]ing O[F]ne
+God Alm[G]ighty[C/E]
+[F] Through Your Holy [Am]Spirit
+[G] Conceiving Christ t[C/E]he S[F]on
+Jesus our S[G]avior
+
+<Chorus 1>
+[C] I believe in God our [Dm]Father
+[F] I believe in Christ the [G]Son
+[Am] I believe in the Holy Spirit
+[F] Our God is three in one
+[C] I believe in the resur[Dm]rection
+[F] That we will rise a[G]gain
+[Am] For I believe in the [F]name of [G]Jesus
+
+<Break>
+|: F / / Am | G / / C/E :|
+
+<Verse 2>
+[F] Our Judge and our De[Am]fender
+[G] Suffered and cruc[C/E]if[F]ied
+Forgiveness is i[G]n You[C/E]
+[F] Descended into [Am]darkness
+[G] You rose in glori[C/E]ous l[F]ife
+Forever seated[G] high
+
+<Chorus 2>
+[C] I believe in God our [Dm]Father
+[F] I believe in Christ the [G]Son
+[Am] I believe in the Holy Spirit
+[F] Our God is three in one
+[C] I believe in the resur[Dm]rection
+[F] That we will rise a[G]gain
+[Am] For I believe in the [F]name of [G]Jesus[C]
+
+<Bridge>
+I be[F]lieve[Am] in Y[G]ou[C/E]
+I be[F]lieve You r[Am]ose ag[G]ain[C/E]
+I be[F]lieve that J[G]esus Christ is L[C]ord
+
+<Tag>
+[Am] For I believe in the [F]name of [G]Jesus
+
+<Chorus 3>
+[C] I believe in life e[Dm]ternal
+[F] I believe in the virgin [G]birth
+[Am] I believe in the saints' communion
+[F] And in Your holy Church
+[C] I believe in the resur[Dm]rection
+[F] When Jesus comes a[G]gain
+[Am] For I believe in the [F]name of [G]Jesus

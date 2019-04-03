@@ -1,0 +1,57 @@
+<song> O Come to the Altar
+<ccli> 7051511
+<key> C Major
+<bpm> 70
+<signature> 4/4
+<verse> Hebrews 13:10-14
+<arranger> ACF Worship
+
+<order>
+Intro
+Verse 1
+Chorus
+Verse 2
+Chorus (x2)
+Bridge (x2)
+Chorus (x2)
+Outro
+
+<Intro>
+| G | Em | C | D |
+
+<Verse 1>
+[C] Are you h[Fmaj7]urting and broken with[C]in
+Overw[Fmaj7]helmed by the weight of your s[Am]in
+Jesus is [F]calling
+[C] Have you c[Fmaj7]ome to the end of yours[C]elf
+Do you t[Fmaj7]hirst for a drink from the w[Am]ell
+Jesus is [F]calling
+
+<Chorus>
+[C] O come to[Dm] the altar
+[Am] The Father's arms are [F6]open [C]wide
+Forgiveness[Dm] was bought with
+[Am] The precious blood of [F6]Jesus [C]Christ
+
+<Verse 2>
+[C] Leave beh[Fmaj7]ind your regrets and mist[C]akes
+Come tod[Fmaj7]ay there's no reason to w[Am]ait
+Jesus is [F]calling
+[C] Bring your s[Fmaj7]orrows and trade them for j[C]oy
+From the a[Fmaj7]shes a new life is b[Am]orn
+Jesus is [F]calling
+
+<Break>
+| C | Am | F | C |
+
+<Bridge>
+Oh what a [C]Savior
+Isn't He [Am]wonderful
+Sing alle[F]luia, Christ is ris[C]en
+Bow down be[C]fore Him
+For He is [Am]Lord of all
+Sing alle[F]luia, Christ is ris[C]en
+
+<Outro>
+[C] Bear your c[Fmaj7]ross as you w[Dm]ait for the c[C]rown
+Tell the w[A#]orld of the t[F]reasure you've f[C]ound

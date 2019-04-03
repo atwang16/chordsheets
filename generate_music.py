@@ -20,6 +20,7 @@ import json
 import gnupg
 from utils.encrypt import get_gnupg_home, KEY_PASSPHRASE
 from getpass import getpass
+from time import sleep
 
 # Global constants
 MAX_COMPOSER_FIELD_LENGTH = 40
@@ -508,7 +509,7 @@ def compile(root_filename: str, chordsheet_file: str, slides_file: str):
 
     # generate slide pngs
     if shutil.which("convert"):  # convert command exists
-        slides_basename = slides_file.rpartition(".")[0]
+        slides_basename = os.path.basename(slides_file).rpartition(".")[0]
         output_directory = os.path.join(os.path.dirname(slides_file), root_filename)
 
         if os.path.isdir(output_directory):
