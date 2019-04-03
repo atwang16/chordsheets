@@ -2,9 +2,9 @@
 <ccli> 6460220
 <composer> David Leonard, Jason Ingram, Leslie Jordan
 <key> A Major
-<bpm> 0
+<bpm> 50
 <signature> 4/4
-<verse> N/A
+<verse> Ezekiel 37:5
 <arranger> UCO Worship
 <year> 2012
 <publisher> Integrity's Alleluia! Music, Integrity's Praise! Music, Open Hands Music, So Essential Tunes
@@ -12,13 +12,17 @@
 <order>
 Verse
 Chorus
+Break 1
 Verse
 Chorus
-Bridge (x4)
-Chorus
+Break 2
+Bridge 1 (x2)
+Bridge 2
+Chorus (x2)
+Outro
 
 <Intro>
-| D | F#m | E |
+|: D F#m | E :|
 
 <Verse>
 You give [D]life, You are [F#m]love
@@ -33,10 +37,21 @@ So we [E]pour out our praise, we pour out our praise
 It's Your [D]breath in our [F#m]lungs  
 So we [E]pour out our praise to You only
 
-<Instrumental>
-| A | Asus | D2 | A |
+<Break 1>
+| D F#m | E |
 
-<Bridge>
-All the earth will shout Your praise
-Our hearts will cry, these bones will sing
-Great are You, Lord
+<Break 2>
+| A | A4 | D/F# / / D2 | A |
+
+<Bridge 1>
+[A]All the earth will shout Your praise
+Our [A4]hearts will cry, these bones will sing
+[D/F#]Great are [D2]You, [A]Lord
+
+<Bridge 2>
+[A]All the earth will shout Your praise
+Our [F#m4]hearts will cry, these bones will sing
+[D/F#]Great are You, [A]Lord
+
+<Outro>
+|: D F#m | E :|

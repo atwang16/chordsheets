@@ -125,3 +125,4 @@ Planned future feature improvements:
 - [ ] Detection of need for two columns (so lines don't have to be fit if only one column is used)
 - [ ] Allow for comments in raw chordsheet (using //)
 - [x] Encryption support for passwords
+- [ ] Improve error messages for parsing raw chordsheets
