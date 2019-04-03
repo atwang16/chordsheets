@@ -1,0 +1,68 @@
+<song> Ever Be
+<ccli> 7030065
+<key> D Major
+<bpm> 137
+<signature> 4/4
+<verse> Psalm 30:11-12
+<arranger> ACF Worship
+
+<order>
+Intro
+Verse 1
+Prechorus 1
+Chorus
+Break
+Verse 2
+Prechorus 2
+Chorus
+Bridge (x2)
+Chorus
+Outro
+
+<Intro>
+|: D / / / | / / / / | F#m / / / | / / / / |
+| A / / / | / / / / | G / / / | / / / / :|
+
+<Verse 1>
+[D] Your love is devoted[Em] like a ring of solid g[G]old
+Like a vow that is test[F#m]ed like a [A]covenant of o[D]ld
+And Your love is endur[Em]ing through the winter r[G]ain
+And beyond the horiz[F#m]on with [A]mercy for tod[G]ay
+
+<Prechorus 1>
+Faithful You have b[D]een and faithful you will [A]be
+You pledge yourself to m[Em]e and it's why I sing
+
+<Chorus>
+Your [G]praise will ever be on my [D]lips, ever be on my lips
+Your [Bm]praise will ever be on my [A]lips, ever be on my lips
+Your [G]praise will ever be on my [D]lips, ever be on my lips
+Your [Bm]praise will ever be on my [A]lips, ever be on my lips
+
+<Break>
+|: D / / / | / / / / | F#m / / / | / / / / |
+| A / / / | / / / / | G / / / | / / / / :|
+
+<Verse 2>
+[D] You Father the orphan[Em]
+Your kindness makes us w[G]hole
+And you shoulder our weakn[F#m]ess
+And your [A]strength becomes our o[D]wn
+Now you're making me like you[Em]
+Clothing me in w[G]hite
+Bringing beauty from ash[F#m]es
+For [A]You will have Your b[G]ride
+
+<Prechorus 2>
+Free of all her g[D]uilt and rid of all her s[A]hame
+And known by her true n[Em]ame and it's why I sing
+
+<Bridge>
+[D] You will be praised,[A] You will be praised
+[Bm] With angels and saints we sing [G]worthy are You Lord
+[D] You will be praised,[Em] You will be praised
+[Bm] With angels and saints we sing [G]worthy are You Lord
+
+<Outro>
+|: G / / / | / / / / | D / / / | / / / / |
+| Bm / / / | / / / / | A / / / | / / / / :|

@@ -1,0 +1,53 @@
+<song> Mighty to Save
+<ccli> 4591782
+<key> G Major
+<bpm> 75
+<signature> 4/4
+<verse> Hebrews 2:10
+<arranger> ACF Worship
+
+<order>
+Intro
+Verse 1
+Chorus
+Break
+Verse 2
+Chorus
+Bridge (x2)
+Chorus (x2)
+Bridge
+
+<Intro>
+| C | G/B | Em | D |
+
+<Verse 1>
+[C] Everyone needs comp[G]assion
+A love that's never f[Em]ailing
+Let [D]mercy fall on m[C]e
+Everyone needs forg[G]iveness
+The kindness of a S[Em]aviour
+The [D]hope of nations[C][D][C][D]
+
+<Chorus>
+[G]Saviour, He can move the [D]mountains
+My God is [C]mighty to s[G]ave, He is [Em]mighty to s[D]ave
+For[G]ever, Author of Sal[D]vation
+He rose and [C]conquered the g[G]rave
+Jesus [Em]conquered the g[D]rave
+
+<Break>
+| C | G/B | Em | D |
+
+<Verse 2>
+[C] So take me as You f[G]ind me
+All my fears and f[Em]ailures
+[D]Fill my life ag[C]ain
+I give my life to f[G]ollow
+Everything I bel[Em]ieve in
+And now [D]I surrender, I surrender[C][D][C][D]
+
+<Bridge>
+[C] Shine your light and[G] let the whole world[D] see
+We're [G/B]singing[C] for the glory[G] of the risen[D] King, [G/B]Jesus
+[C] Shine your light[G] and let the whole world[D] see
+We're [G/B]singing[C] for the glory[G] of the risen[D] King!
