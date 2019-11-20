@@ -1,0 +1,65 @@
+<song> Do It Again
+<ccli> 7067555
+<composer> Chris Brown, Mack Brock, Matt Redman, Steven Furtick
+<key> C Major
+<bpm> 86
+<signature> 4/4
+<verse> Psalm 9:9-10
+<arranger> ACF Worship
+<year> 2017
+<publisher> Capitol CMG Publishing, Essential Music Publishing LLC
+
+<order>
+Intro
+Verse 1
+Chorus
+Break 1
+Verse 2
+Chorus (x2)
+Break 1
+Break 2
+Bridge (x2)
+Break 2
+Chorus (x2)
+
+<Intro>
+|: F | C/E :|
+
+<Verse 1>
+[F] Walking around these walls
+[C/E] I thought by now they'd fall
+[F] But You have never failed me y[C/E]et
+---
+[F] Waiting for change to come
+[C/E] Knowing the battle's won
+[F] For You have never failed me y[C]et
+
+<Chorus>
+[F] Your promise still [G]stands
+Great is Your f[C]aithfulness, f[F]aithfulness
+[Am] I'm still in Your [G]hands
+This is my c[C]onfidence, You've n[F]ever failed me y[C/E]et
+
+<Break 1>
+|: C/E | F :|
+
+<Verse 2>
+[F] I know the night won't last
+[C/E] Your Word will come to pass
+[F] My heart will sing Your praise ag[C/E]ain
+---
+[F] Jesus, You're still enough
+[C/E] Keep me within Your love
+[F] My heart will sing Your praise ag[C]ain
+
+<Break 2>
+| F / / C/E | F / / C/E |
+| F / / G | C / / G |
+| C / / C/E | F / / C/E |
+| F / / G | C / / G |
+
+<Bridge>
+[F] I've seen You move, You move the mountains
+[C] And I believe, I'll see You do it again
+[F] You made a way, where there was no way
+[C] And I believe, I'll see You do it again

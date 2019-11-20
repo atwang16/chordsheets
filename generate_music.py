@@ -14,13 +14,10 @@ from subprocess import run
 import requests
 from pprint import pprint
 import shutil
-from utils.headers import CHORDSHEET_HEADER, SLIDES_HEADER
-from utils.classes import *
+from headers import CHORDSHEET_HEADER, SLIDES_HEADER
+from classes import *
 import json
-import gnupg
-from utils.encrypt import get_gnupg_home, KEY_PASSPHRASE
 from getpass import getpass
-from time import sleep
 
 # Global constants
 MAX_COMPOSER_FIELD_LENGTH = 40
@@ -65,6 +62,7 @@ def p_warning(*args):
     :return: None
     """
     print("[WARNING]", *args)
+
 
 def get_variables(filename: str):
     """
@@ -114,20 +112,7 @@ def get_variables(filename: str):
             account_info["EmailAddress"] = config["ccli_email_address"]
 
         # decrypt password
-        if "ccli_password_encrypted" in config:
-            gpg = gnupg.GPG(gnupghome=get_gnupg_home())
-            decrypted_data = gpg.decrypt(config["ccli_password_encrypted"], passphrase=KEY_PASSPHRASE)
-            if decrypted_data.ok:  # decrypt successful
-                account_info["Password"] = decrypted_data.data
-            else:  # decrypt failed
-                print("------------")
-                print("Attempted to decrypt password.")
-                print('ok: ', decrypted_data.ok)
-                print('status: ', decrypted_data.status)
-                print('stderr: ', decrypted_data.stderr)
-                print('decrypted string: ', decrypted_data.data)
-
-        elif "ccli_password" in config:  # JSON support for unencrypted passwords for people who don't care about security
+        if "ccli_password" in config:  # JSON support for unencrypted passwords for people who don't care about security
             account_info["Password"] = config["ccli_password"]
 
     else:  # old format; legacy support
@@ -179,13 +164,13 @@ def parse(filename: str):
 
     # read file
     with open(filename, "r") as f:
-        MODE = ParseMode.NORMAL  # initialize mode
+        mode = ParseMode.NORMAL  # initialize mode
         content = f.readlines()
 
         # iterate through lines
         for l in content:
             # NORMAL mode
-            if MODE == ParseMode.NORMAL:
+            if mode == ParseMode.NORMAL:
                 # check header
                 # <song>
                 if re.match(SONG_TAG_REGEX, l):
@@ -224,18 +209,18 @@ def parse(filename: str):
 
                 # switch to ORDER mode
                 elif re.match("^<order>", l):
-                    MODE = ParseMode.ORDER
+                    mode = ParseMode.ORDER
 
                 # switch to SECTION mode
                 elif re.match("^<([a-zA-Z0-9 ]+)>$", l):
-                    MODE = ParseMode.SECTION
+                    mode = ParseMode.SECTION
                     lines = []
                     section_name = re.match("^<([a-zA-Z0-9 ]+)>", l).group(1)
 
             # ORDER mode
-            elif MODE == ParseMode.ORDER:
+            elif mode == ParseMode.ORDER:
                 if l == "\n":  # terminal character
-                    MODE = ParseMode.NORMAL
+                    mode = ParseMode.NORMAL
                 else:  # parse ordering of sections
                     match = re.match("^([a-zA-Z0-9 ]+?)( \(x?(\\d)+x?\))?$", l)
                     name = match.group(1)
@@ -243,15 +228,15 @@ def parse(filename: str):
                     order.append((name, frequency))
 
             # SECTION mode
-            elif MODE == ParseMode.SECTION:
+            elif mode == ParseMode.SECTION:
                 if l == "\n":  # terminal character
-                    MODE = ParseMode.NORMAL
+                    mode = ParseMode.NORMAL
                     sections[section_name] = (Section(section_name, lines))
                     section_name = None
                 else:  # collect lines to be parsed by Section constructor later
                     lines.append(Line.parse(l))
 
-        if MODE == ParseMode.SECTION:  # section ended without sole newline
+        if mode == ParseMode.SECTION:  # section ended without sole newline
             sections[section_name] = (Section(section_name, lines))
 
     verify_data(header_data)  # verify that the header data has the minimal amount needed to generate the song
@@ -419,7 +404,7 @@ def generate_slides_header(header) -> str:
     return header_template.substitute(header)
 
 
-def generate_chordsheet(song: Song, new_key:str=DEFAULT_KEY) -> str:
+def generate_chordsheet(song: Song, new_key: str=DEFAULT_KEY) -> str:
     """
     Returns string representation of generated LaTeX chordsheet in new key.
     :param song: Song object representing song for which to generate chordsheet
@@ -531,6 +516,7 @@ def compile(root_filename: str, chordsheet_file: str, slides_file: str):
         print("-------")
         p_warning("Convert function not found. No individual slides were generated.")
 
+
 def clean(directory: str, chordsheet_filename: str, slides_filename: str, destination_directories: dict):
     """
     Remove unnecessary files and move files as needed.
@@ -554,6 +540,7 @@ def clean(directory: str, chordsheet_filename: str, slides_filename: str, destin
     for f in os.listdir(directory):
         if pattern.match(f):
             os.remove(os.path.join(directory, f))
+
 
 if __name__ == '__main__':
     # parse command line

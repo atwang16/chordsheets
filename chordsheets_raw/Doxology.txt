@@ -1,0 +1,27 @@
+<song> Praise God From Whom All Blessings Flow (Doxology)
+<ccli> 19935
+<composer> Jimmy Owens, Thomas Ken
+<key> C Major
+<bpm> 56
+<signature> 4/4
+<verse> Psalm 103
+<arranger> ACF Worship
+<year> 1972
+<publisher> Public Domain 
+
+<order>
+Chorus
+Bridge 1
+Bridge 2
+
+<Chorus>
+Praise [C]God from Whom all [F]bles[G]sings [C]flow
+Praise [C]Him all creatures [F]here [C]be[G]low
+Praise [G]Him above ye [F]heaven[G]ly [Am]host
+Praise [C]Father [F]Son and [G]Holy [C]Ghost
+
+<Bridge 1>
+[F]A[C]men
+
+<Bridge 2>
+[Dm]A[G]men

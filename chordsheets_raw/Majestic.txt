@@ -1,0 +1,65 @@
+<song> Majestic
+<ccli> 4573308
+<key> C Major
+<bpm> 108
+<signature> 4/4
+<verse> Psalm 8
+<arranger> ACF Worship
+<year> 2005
+<publisher> Integrity's Praise! Music
+
+<order>
+Intro
+Verse (x2)
+Chorus 1
+Break
+Verse (x2)
+Chorus 1
+Bridge 1 (x4)
+Bridge 2
+Chorus 2
+Chorus 1
+Outro (x2)
+
+<Intro>
+| C | G | F | C |
+
+<Verse>
+Oh [C]Lord, Our Lord
+How ma[G]jestic is
+Your n[F]ame in all the e[C]arth
+
+<Chorus 1>
+The heavens de[F]clare Your g[C]reatness
+The oceans cry [F]out to Y[Am]ou
+The mountains, they [F]bow down bef[C]ore You
+So I'll j[Dm]oin with the e[C/E]arth
+And I'll g[F]ive my p[G]raise to Y[C]ou
+
+<Break>
+| C | G | F | C |
+
+<Bridge 1>
+[C]I will worship [F]You
+
+<Bridge 2>
+[C]We will worship [F]You
+[Am]We will worship [F]You[G]
+
+<Chorus 2>
+The heavens de[F]clare Your g[C]reatness
+The oceans cry [F]out to Y[Am]ou
+The mountains, they [F]bow down bef[C]ore You
+So I'll j[Dm]oin with the e[C/E]arth
+And I'll s[F]ing
+
+<Chorus 3>
+The [G]heavens de[F]clare Your g[C]reatness
+The oceans cry [F]out to Y[Am]ou
+The mountains, they [F]bow down bef[C]ore You
+So I'll j[Dm]oin with the e[C/E]arth
+And I'll s[F]ing
+
+<Outro>
+So I'll j[Dm]oin with the e[C/E]arth
+And I'll g[F]ive my p[G]raise to Y[C]ou

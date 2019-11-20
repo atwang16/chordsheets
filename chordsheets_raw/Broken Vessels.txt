@@ -1,0 +1,74 @@
+<song> Broken Vessels (Amazing Grace)
+<ccli> 7019974
+<composer> Joel Houston, Jonas Myrin
+<key> G Major
+<bpm> 70
+<signature> 4/4
+<verse> 2 Corinthians 4:7
+<arranger> ACF Worship
+<year> 2014
+<publisher> Hillsong Music Publishing Australia
+
+<order>
+Intro (x2)
+Verse 1
+Prechorus 1
+Chorus
+Break 1 (x2)
+Verse 2
+Prechorus 1
+Chorus
+Break 2
+Prechorus 2 (x2)
+Chorus (x2)
+
+<Intro>
+|: Em | G :|
+
+<Verse 1>
+All these [Em]pieces
+Broken and [G]scattered
+In mercy [Em]gathered
+Mended and [G]whole
+Empty-[Em]handed
+But not for[G]saken
+I've been set[D] free
+I've been set [Em]free[D]
+
+<Prechorus 1>
+A[C]mazing grace
+How [D]sweet the sound
+That [Em]saved a wretch like m[C]e
+Oh, I [C]once was lost
+But [D]now I'm found
+Was [Em]blind but now I s[C]ee
+
+<Chorus>
+Oh I can see you [G]now[D]
+Oh I can see the [Em]love in Your e[C]yes
+Laying yourself [G]down[D]
+Raising up the [Em]broken to l[C]ife
+
+<Break 1>
+| Em | G |
+
+<Verse 2>
+You take our [Em]failure
+You take our [G]weakness
+You set Your [Em]treasure
+In jars of [G]clay
+So take this [Em]heart, Lord
+I'll be Your [G]vessel
+The world to[D] see
+Your life in [Em]me, [D]oh
+
+<Break 2>
+|: G | D | Em | C :|
+
+<Prechorus 2>
+A[G]mazing grace
+How [D]sweet the sound
+That [Em]saved a wretch like m[C]e
+Oh, I [G]once was lost
+But [D]now I'm found
+Was [Em]blind but now I s[C]ee

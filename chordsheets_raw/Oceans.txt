@@ -1,0 +1,82 @@
+<song> Oceans (Where Feet May Fail)
+<ccli> 6428767
+<composer> Joel Houston, Matt Crocker, Salomon Ligthelm
+<key> D Major
+<bpm> 64
+<signature> 4/4
+<verse> Matthew 14:22-33
+<arranger> ACF Worship
+<year> 2012
+<publisher> HIllsong Music Publishing Australia
+
+<order>
+Intro (x2)
+Verse 1
+Chorus
+Break 1
+Verse 2
+Chorus
+Break 2
+Bridge 1 (x3)
+Bridge 2
+Bridge 3 (x2)
+Outro
+Intro
+
+<Intro>
+| Bm7 / / A/C# | D | A | G |
+
+<Verse 1>
+[Bm] You call me out u[A/C#]pon the [D]waters
+The great u[A]nknown where feet may [G]fail
+[Bm] And there I find You [A/C#]in the [D]mystery
+In oceans [A]deep, my faith will[G] stand
+
+<Chorus>
+[G] And I will [D]call upon Your [A]name
+[G] And keep my [D]eyes above the [A]waves
+When oceans [G]rise, my soul will [D]rest in Your em[A]brace
+For I am [G]Yours and [A]You are [Bm]mine
+
+<Break 1>
+| Bm7 / / A/C# | D | A | Em/G |
+
+<Verse 2>
+[Bm] Your grace abounds in [A/C#]deepest [D]waters
+Your sovereign [A]hand will be my [G]guide
+[Bm] Where feet may fail and [A/C#]fear sur[D]rounds me
+You've never [A]failed and You won't start[G] now
+
+<Break 2>
+|: Bm7 / / A/C# | D | A | Em/G :|
+|: Bm | G | D | A :|
+
+<Bridge 1>
+[Bm] Spirit lead me where my t[G]rust is without borders
+Let me w[D]alk upon the waters
+Where[A]ver You would call me
+[Bm] Take me deeper than my f[G]eet could ever wander
+And my f[D]aith will be made stronger
+In the p[A]resence of my Savior
+
+<Bridge 2>
+[G] Spirit lead me where my t[D]rust is without borders
+Let me w[A]alk upon the waters
+Where[Em]ver You would call me
+[G] Take me deeper than my f[D]eet could ever wander
+And my f[A]aith will be made stronger
+In the p[Em]resence of my Savior
+
+<Bridge 3>
+[Bm] Spirit lead me w[A/C#]here my t[D]rust is without borders
+Let me w[A]alk upon the waters
+Where[Em]ver You would call me
+[Bm] Take me deeper t[A/C#]han my f[D]eet could ever wander
+And my f[A]aith will be made stronger
+In the p[Em]resence of my Savior
+
+<Outro>
+[G] And I will [D]call upon Your [A]name
+[G] And keep my [D]eyes above the [A]waves
+[G] my soul will [D]rest in Your em[A]brace
+For I am [G]Yours and [A]You are [Bm]mine

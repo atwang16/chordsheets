@@ -1,0 +1,61 @@
+<song> Gracefully Broken
+<ccli> 7091509
+<composer> Bryan Torwalt, Jonas Myrin, Katie Torwalt, Matt Redman, Tasha Cobbs Leonard
+<key> B Major
+<bpm> 76
+<signature> 4/4
+<verse> Proverbs 3:5-6
+<arranger> ACF Worship
+<year> 2017
+<publisher> Capitol CMG Genesis, Capitol CMG Paragon, Jesus Culture Music, Jesus Culture Music Group, Meadowgreen Music Company, Said And Done Music, sixsteps Music, Son of the Lion, Tasha Cobbs Music Group, Thankyou Music, worshiptogether.com songs
+
+<order>
+Intro
+Verse 1 (x2)
+Chorus
+Verse 2
+Chorus (x2)
+Bridge 1 (x2)
+Bridge 2 (x2)
+Chorus (x2)
+Bridge 3 (x2)
+Chorus (x2)
+
+<Intro>
+|: E | B :|
+
+<Verse 1>
+Take [E]all I have in these hands
+And multi[B]ply, God, all that I am
+And find my [E]heart on the altar again
+Set me on [B]fire, set me on fire
+
+<Chorus>
+Here I a[G#m]m, God
+[E]Arms wide op[B]en[F#]
+Pouring o[G#m]ut my life
+[E]Gracefully brok[B]en
+
+<Verse 2>
+My [E]heart stands in awe of Your name
+Your mighty [B]love stands strong to the end
+You will ful[E]fill Your purpose for me
+You won't for[B]sake me, You will be with me
+
+<Bridge 1>
+[B]All to Jesus [E]now
+[G#m]All to Jesus [F#]now
+[B]Holding nothing [E]back
+[G#m]Holding nothing [F#]back
+
+<Bridge 2>
+I sur[G#m]rende[E]r
+I sur[B]rende[F#]r
+I sur[G#m]rende[E]r
+I sur[B]rende[F#]r
+
+<Bridge 3>
+[C#m7] Your power at work in me
+[B/D#] I'm broken gracefully
+[E] I'm strong when I am weak
+[F#] I will be free

@@ -176,19 +176,33 @@ class Section:
         :param is_first_slide: True if slide being generated is the first slide, or False otherwise
         :return: str representing LaTeX slide representation of section
         """
+        def create_slide(lines):
+            output = ""
+            if len(lines) > 0:
+                output += "\\begin{frame}\n"
+                output += "\\header\n"
+                output += "\\begin{center}\n"
+                output += "\n\n".join(line.get_lyrics() for line in lines)  # generate each line
+                output += "\n\\end{center}\n"
+                if is_first_slide:  # if first slide, include citation
+                    output += "\\cite\n"
+                output += "\\end{frame}"
+            return output
+
         if not self.has_lyrics():
             raise RuntimeError("Error: cannot generate a slide for a section without lyrics.")
 
-        # generate output
         output = ""
-        output += "\\begin{frame}\n"
-        output += "\\header\n"
-        output += "\\begin{center}\n"
-        output += "\n\n".join(line.get_lyrics() for line in self.lines)  # generate each line
-        output += "\n\\end{center}\n"
-        if is_first_slide:  # if first slide, include citation
-            output += "\\cite\n"
-        output += "\\end{frame}"
+        lines_per_slide = []
+
+        # collect lines
+        for line in self.lines:
+            if not line.is_break():
+                lines_per_slide.append(line)
+            else:
+                output += create_slide(lines_per_slide)
+                lines_per_slide = []
+        output += create_slide(lines_per_slide)
 
         return output
 
@@ -216,6 +230,8 @@ class Line(ABC):
         """
         if MusicLine.is_music_line(line):
             return MusicLine.parse(line)  # parse chords-only line
+        elif BreakLine.is_break_line(line):
+            return BreakLine.parse(line)  # parse break line
         else:
             return Lyric.parse(line)  # parse lyrics line
 
@@ -243,11 +259,53 @@ class Line(ABC):
         pass
 
     @abstractmethod
+    def is_break(self) -> bool:
+        """
+        :return: True if a break line
+        """
+        pass
+
+    @abstractmethod
     def __str__(self):
         """
         :return: str representing line in human-friendly form
         """
         pass
+
+
+class BreakLine(Line):
+    """
+    Class representing a break in slides, of the form
+
+    ---
+
+    """
+    def generate_chordsheet(self, notes: "Notes") -> str:
+        return ""
+
+    @staticmethod
+    def parse(line: str) -> Line:
+        return BreakLine()
+
+    def has_lyrics(self) -> bool:
+        return False
+
+    def get_lyrics(self) -> str:
+        return ""  # has no lyrics
+
+    @staticmethod
+    def is_break_line(line: str) -> bool:
+        """
+        :param line: str representing a line in the raw chordsheet
+        :return: True if the line is a break line
+        """
+        return re.match("(-)*$", line) is not None
+
+    def is_break(self) -> bool:
+        return True
+
+    def __str__(self):
+        return "---"
 
 
 class MusicLine(Line):
@@ -294,6 +352,9 @@ class MusicLine(Line):
 
     def get_lyrics(self) -> str:
         return ""  # has no lyrics
+
+    def is_break(self) -> bool:
+        return False
 
     def __str__(self):
         return "| " + " | ".join(" ".join(str(token) for token in m) for m in self.measures) + " |"
@@ -376,6 +437,9 @@ class Lyric(Line):
         else:
             return output
 
+    def is_break(self) -> bool:
+        return False
+
     def __str__(self):
         return "".join(str(c) for c in self.characters)
 
@@ -384,7 +448,7 @@ class Character:
     """
     Class representing a single character, possibly with a chord
     """
-    def __init__(self, c: str, chord:"Chord"=None):
+    def __init__(self, c: str, chord: "Chord"=None):
         """
         :param c: str representing a single character or empty string
         :param chord: Chord representing a chord, to be played at that character

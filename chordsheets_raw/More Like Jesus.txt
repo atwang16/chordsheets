@@ -16,6 +16,7 @@ Chorus
 Verse 3
 Chorus (x2)
 Bridge (x2)
+Tag
 Chorus (x2)
 
 <Intro>
@@ -53,3 +54,8 @@ Father I pray make me [Eb]more like [F]Jesus
 This [Bb]world is dying to know who You [Eb]are
 You've shown us the way to Your [Gm]heart
 So Father I pray make me [Eb]more like [F]Jesus
+
+<Tag>
+[Eb]More like [F]Jesus
+I pray make me [Eb]more like [F]Jesus
+[Eb]Ohh[F]

@@ -1,0 +1,74 @@
+<song> This Is Amazing Grace
+<ccli> 6333821
+<key> C Major
+<bpm> 97
+<signature> 4/4
+<verse> Revelations 5:11-13
+<arranger> ACF Worship
+<year> 2012
+<publisher> Phil Wickham Music, Seems Like Music, Sing My Songs, WC Music Corp., Bethel Music Publishing
+
+<order>
+Intro
+Verse 1
+Verse 2
+Chorus
+Break
+Verse 3
+Verse 4
+Chorus
+Bridge 1
+Bridge 2
+Bridge 1
+Bridge 3
+Chorus
+
+
+<Intro>
+|: C | | F | :|
+
+<Verse 1>
+[C] Who breaks the power of sin and darkness?
+[F] Whose love is mighty and so much stronger?
+[Am] The King of Glory,[G] the King above all k[F]ings
+
+<Verse 2>
+[C] Who shakes the whole earth with holy thunder
+[F] And leaves us breathless in awe and wonder?
+[Am] The King of Glory,[G] the King above all k[F]ings
+
+<Chorus>
+This is amazing g[C]race
+This is unfailing l[F]ove
+That You would take my p[Am]lace
+That You would bear my c[G]ross
+---
+You laid down Your l[C]ife
+That I would be set [F]free
+Oh,[Am] Jesus, I sing for
+[G] All that You've done for me
+
+<Break>
+|: C | | F | :|
+
+<Verse 3>
+[C] Who brings our chaos back into order?
+[F] Who makes the orphan a son and daughter?
+[Am] The King of Glory,[G] the King of Glory
+
+<Verse 4>
+[C] Who rules the nations with truth and justice
+[F] Shines like the sun in all of its brilliance?
+[Am] The King of Glory,[G] the King above all k[F]ings
+
+<Bridge 1>
+[C]Worthy is the Lamb who was slain
+[F]Worthy is the King who conquered the grave
+
+<Bridge 2>
+[Am]Worthy is the Lamb who was slain
+[F]Worthy is the King who conquered the grave
+
+<Bridge 3>
+[Am]Worthy is the Lamb who was s[C]lain
+Worthy, w[F]orthy, worthy

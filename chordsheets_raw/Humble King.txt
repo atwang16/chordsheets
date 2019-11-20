@@ -1,0 +1,46 @@
+<song> Humble King
+<ccli> 2650388
+<composer> Brenton Brown
+<key> E Major
+<bpm> 86
+<signature> 
+<verse> Philippians 2:5-11
+<arranger> ACF Worship
+<year> 1999
+<publisher> Vineyard Songs
+
+<order>
+Intro
+Verse 1
+Chorus
+Verse 2
+Chorus (x2)
+
+<Intro>
+|: F#m E/G# | A | F#m E/G# | A :|
+| E |
+
+<Verse 1>
+Oh kneel me [F#m]down a[E/G#]gain
+[A] Here [B]at Your [E]feet
+Show me how [F#m]much You [E/G#]love[A] hu[B]mili[E]ty
+Oh Spirit [F#m]be the [E/G#]star[A] that [B]leads me [C#m]to
+The humble [F#m]heart of love[B] I see in [E]You
+
+<Chorus>
+You are the G[A]od of the b[E/G#]roken
+The [F#m]friend of the w[B]eak
+You wash the f[A]eet of the w[E/G#]eary
+Em[F#m]brace the ones in n[B]eed
+---
+I want to b[A]e like you J[E/G#]esus
+To [F#m]have this heart in m[B]e
+You are the G[F#m]od of the h[E/G#]umble
+You a[A]re the h[B]umble K[E]ing
+
+<Verse 2>
+Here in the [F#m]dusty [E/G#]ground
+[A] I [B]bow with [E]kings
+Where wise men [F#m]laid be[E/G#]fore[A] their [B]offe[E]rings
+I lay no [F#m]golden [E/G#]crown[A] here [B]at your [C#m]feet 
+Just this my [F#m]broken life[B] I offer [E]thee

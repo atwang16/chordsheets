@@ -1,7 +1,7 @@
 <song> Our God Is Love
 <ccli> 5636866
 <key> E Major
-<bpm> 
+<bpm> 104
 <signature> 4/4
 <verse> 1 John 4:9-10
 <arranger> Austin Wang

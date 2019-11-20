@@ -1,0 +1,24 @@
+<song> I Love You, Lord
+<ccli> 25266
+<composer> Laurie Klein
+<key> E Major
+<bpm> 
+<signature> 4/4
+<verse> 3 John 1:4
+<arranger> ACF Worship
+<year> 1978
+<publisher> House of Mercy Music
+
+<order>
+Verse
+
+<Verse>
+I [E]love You Lord 
+And I [B]lift my [C#m]voice 
+To [A]wor[E/G#]ship [F#m]You 
+O my [B]soul rejoice 
+---
+Take [E]joy my King 
+In [B]what You [C#m]hear 
+Let it be a [A]sweet [E/G#]sweet [F#m]sound 
+[B]In Your [A]ear

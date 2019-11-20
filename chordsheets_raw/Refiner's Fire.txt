@@ -1,0 +1,41 @@
+<song> Refiner's Fire
+<ccli> 426298
+<composer> Brian Doerksen
+<key> C Major
+<bpm> 70
+<signature> 4/4
+<verse> Malachi 3:2-3, 2 Timothy 2:20-21
+<arranger> ACF Worship
+<year> 1990
+<publisher> Mercy Vineyard Publishing, Vineyard Songs Canada
+
+<order>
+Verse
+Chorus 1
+Verse
+Chorus 2
+Chorus 1
+
+<Verse>
+[C]Purif[G/B]y my h[Am]eart
+Let me be as [Dm7]gold and [G]precious silver
+[C]Purif[G/B]y my h[Am]eart
+Let me be as [Dm7]gold, [G]pure gold
+
+<Chorus 1>
+[C]Re[F]finer's [G]fire
+[C]My heart's [F]one des[G]ire
+Is to [C]be [G]holy
+[C]Set ap[F]art for Y[G]ou, Lord
+I choose to [C]be [G]holy
+[C/E]Set ap[F]art for Y[Am]ou, my M[G]aster
+[Dm7]Ready to d[G]o Your [C]will
+
+<Chorus 2>
+[C]Re[F]finer's [G]fire
+[C]My heart's [F]one des[G]ire
+Is to [C]be [G]holy
+[C]Set ap[F]art for Y[G]ou, Lord
+I choose to [C]be [G]holy
+[C/E]Set ap[F]art for Y[Am]ou, my M[G]aster
+[Dm7]Ready to d[G]o Your [Am]will[G/B]

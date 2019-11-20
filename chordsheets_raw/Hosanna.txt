@@ -6,6 +6,8 @@
 <signature> 4/4
 <verse> Mark 11:9-10
 <arranger> ACF Worship
+<year> 2006
+<publisher> Hillsong Music Publishing Australia
 
 <order>
 Intro
