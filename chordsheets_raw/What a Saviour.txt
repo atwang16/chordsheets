@@ -1,0 +1,62 @@
+<song> What a Saviour
+<ccli> 7047248
+<composer> 
+<key> G Major
+<bpm> 64
+<signature> 4/4
+<verse> Psalm 71:14
+<arranger> ACF Worship
+
+<order>
+Intro
+Verse 1
+Chorus
+Break 1
+Verse 2
+Chorus (x2)
+Tag
+Break 2
+Bridge (x3)
+Chorus (x2)
+Tag (x3)
+Outro
+
+<Intro>
+| C G / / | C6 G / / | C G / D | C |
+
+<Verse 1>
+What a [C]Sa[G]vior my Re[C6]dee[G]mer
+Friend of [C]sin[G]ners one like[D] me
+Oh what [C]kind[G]ness suffered [C]vio[G]lence
+Healed my [Em]blind[G/D]ness and [D]set me[C] free
+
+<Chorus>
+Oh what [Em]grace I've [C]found in You my[G] Je[D]sus
+That my [Em]soul should [C]entertain Your[G] great[D]ness
+Should this [C]life hold [Em]nothing but my[G] Sav[D]ior
+I will [C]praise [G]You al[D]ways
+
+<Break 1>
+| C G / / | C6 G / / | C G / D | C |
+
+<Verse 2>
+Heaven's [C]glo[G]ry clothed in [C6]mer[G]cy
+Knew my [C]sto[G]ry yet took my[D] end
+Oh what [C]free[G]dom hope like [C]hea[G]ven
+Now for[Em]gi[G]ven I will [D]rise[C] again
+
+<Tag>
+I will [C]praise [G]You al[D]ways
+
+<Break 2>
+|: C | D | Em | G :|
+
+<Bridge>
+[C] Should this life I live
+[D] Hold nothing but the [Em]cross where Jesus took my[G] shame
+[C] Then with arms stretched wide
+[D] And my hands held high
+My [Em]every breath will sing a[G]gain
+
+<Outro>
+| C G / / | C6 G / / | C G / D | C |

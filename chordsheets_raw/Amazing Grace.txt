@@ -1,0 +1,44 @@
+<song> Amazing Grace
+<ccli> 22025
+<composer> Edwin Othello Excell, John Newton, John P. Rees, William W. Walker
+<key> C Major
+<bpm> 
+<signature> 4/4
+<verse> 
+<arranger> ACF Worship
+<year> N/A
+<publisher> Public Domain
+
+<order>
+Intro
+Verse 1
+Verse 2
+Verse 3
+Verse 4
+
+<Intro>
+| C | F | C | F |
+
+<Verse 1>
+A[C]mazing grace! How [F]sweet the [C]sound
+That saved a [F]wretch; like [G]me
+I [C]once was lost, but [F]now I'm [C]found
+Was blind, but [F]now I [C]see
+
+<Verse 2>
+’Twas [C]grace that [Am]taught my [F]heart to [C]fear
+And [Am]grace my [F]fears re[G]lieved
+How [C]precious [Am]did that [F]grace ap[C]pear
+The [Am]hour I [F]first be[C]lieved
+
+<Verse 3>
+The [C]Lord [G/B]hath [Am]promised [F]good to [C]me
+[G/B]His [Am]word my [F]hope se[G]cures
+He [C]will my [Am]shield and [F]portion [C]be
+[G/B]As [Am]long as [F]life en[C]dures
+
+<Verse 4>
+When [C]we’ve [G/B]been [Am]there ten [F]thousand [C]years
+[G/B]Bright [Am]shining [F]as the [G]sun
+We’ve [C]no less [Am]days to [F]sing God’s [C]praise
+[G/B]Than [Am]when we [F]first be[C]gun

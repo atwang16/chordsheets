@@ -1,0 +1,57 @@
+<song> Glorious Ruins
+<ccli> 6514059
+<key> D Major
+<bpm> 65
+<signature> 4/4
+<verse> Isaiah 61
+<arranger> ACF Worship
+
+<order>
+Intro
+Verse 1
+Prechorus
+Chorus
+Verse 2
+Prechorus
+Chorus (x2)
+Break
+Chorus (x2)
+
+<Intro>
+|: D | | G | :|
+
+<Verse 1>
+When the [D]mountains fall
+And the tempest r[A]oars You are [Bm]with me[G]
+When cre[D]ation folds
+Still my soul will s[A]oar on Your m[Bm]ercy
+
+<Prechorus>
+I'll w[G]alk through the fire
+With my h[D]ead lifted high
+And my s[Bm]pirit revived in Your s[A]tory
+---
+And I'll l[G]ook to the cross
+As my f[Bm]ailure is lost
+In the l[D]ight of Your glorious g[A]race
+
+<Chorus>
+So Let the ruins come to l[D]ife
+In the beauty of Your N[G]ame
+Rising up from the a[D]shes
+God forever You r[A]eign
+---
+And my soul will find r[Bm]efuge
+In the shadow of Your w[G]ings
+I will love You fore[D]ver
+And forever I'll s[A]ing
+
+<Verse 2>
+When the [D]world caves in
+Still my hope will c[A]ling to Your p[Bm]romise[G]
+Where my [D]courage ends
+Let my heart find s[A]trength in Your p[Bm]resence
+
+<Break>
+| D | G | D | A |
+| Bm | G | D | A |

@@ -1,0 +1,65 @@
+<song> Touch of Heaven
+<ccli> 7102403
+<key> A Major
+<bpm> 68
+<signature> 4/4
+<verse> Isaiah 43:9-12
+<arranger> ACF Worship
+
+<order>
+Intro
+Verse 1
+Verse 2
+Prechorus
+Chorus
+Verse 3
+Verse 4
+Prechorus
+Chorus
+Bridge (x2)
+Chorus
+
+<Intro>
+| D | F#m | A | E |
+
+<Verse 1>
+[D] How I live for the moments
+[F#m] Where I'm still in Your presence
+[A] All the noise dies down
+[E] Lord speak to [A/C#]me now
+
+<Verse 2>
+[D] You have all my attention
+[F#m] I will linger and listen
+[A] I can't miss a thing
+
+<Prechorus>
+[E] Lord I [A/C#]know my [D]heart wants more of You
+My [F#m]heart wants something new
+So [A]I surrender a[E]ll
+
+<Chorus>
+[A/C#]All I [D]want is to live within Your [E]love
+Be undone by who You [F#m]are
+My desire is to [A/C#]know You deeper
+[D]Lord I will open up a[E]gain
+Throw my fears into the [F#m]wind
+I am desperate for a [A/C#]touch of heaven
+[D]Oh[E][F#m][A/C#]
+
+<Verse 3>
+[D] You're the fire in the morning
+[F#m] You're the cool in the evening
+[A] The breath in my soul
+[E] All the life in [A/C#]my bones
+
+<Verse 4>
+[D] There is no hesitation
+[F#m] In Your love and affection
+[A] It's the sweetest of all
+
+<Bridge>
+I open up my [D]heart to You
+[E] I open up my [F#m]heart to You n[A/C#]ow
+So do what only [D]You can
+[E] Jesus have Your [F#m]way in me n[A/C#]ow

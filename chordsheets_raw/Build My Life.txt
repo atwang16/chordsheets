@@ -1,0 +1,55 @@
+<song> Build My Life
+<ccli> 7070345
+<composer> Brett Younker, Karl Martin, Kirby Kaple, Matt Redman, Pat Barrett
+<key> G Major
+<bpm> 70
+<signature> 4/4
+<verse> Matthew 7:24-27
+<arranger> ACF Worship
+<year> 2016
+
+<order>
+Intro
+Verse 1
+Verse 2
+Chorus
+Verse 1
+Verse 2
+Chorus (x2)
+Break
+Bridge (x2)
+Chorus (x2)
+
+<Intro>
+|: G | C :|
+
+<Verse 1>
+[G] Worthy of every s[C/G]ong we could ever sing
+[G/B] Worthy of all the p[C/G]raise we could ever bring
+[G] Worthy of every b[C/G]reath we could ever breathe
+We live for Y[G/B]ou[C/G]
+
+<Verse 2>
+[G] Jesus, the Name ab[C/G]ove every other name
+[G/B] Jesus, the only O[C/G]ne who could ever save
+[G] Worthy of every b[C/G]reath we could ever breathe
+We live for Y[Em]ou
+Oh, we live for Y[C/G]ou
+
+<Chorus>
+[C]Holy, there is no one [Am]like You
+There is none be[G]side You
+Open up my [Em]eyes in wonder
+---
+And [C]show me who You are
+And [Am]fill me with Your heart
+And [G]lead me in Your love to [Em]those around me
+
+<Break>
+|: C | Dsus4 | Em | G :|
+
+<Bridge>
+And [C]I will build my [Dsus4]life upon Your [Em]love
+It is a [G]firm foundation
+And [C]I will put my [Dsus4]trust in You a[Em]lone
+And I will [G]not be shaken

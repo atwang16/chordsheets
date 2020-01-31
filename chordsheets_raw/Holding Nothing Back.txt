@@ -1,0 +1,77 @@
+<song> Holding Nothing Back
+<ccli> 4879277
+<key> G Major
+<bpm> 133
+<signature> 4/4
+<verse> 2 Corinthians 3:17
+<arranger> ACF Worship
+<year> 2009
+
+<order>
+Intro
+Verse 1
+Verse 2
+Prechorus
+Chorus
+Verse 3
+Verse 4
+Prechorus
+Chorus
+Break
+Bridge 1 (x2)
+Bridge 2
+Chorus (x2)
+
+<Intro>
+| G |
+
+<Verse 1>
+[G] I am chosen, I am free
+I am living for eternity
+[Em] F[C]ree now forever
+
+<Verse 2>
+[G] You picked me up, turned me around
+You set my feet on solid ground
+[Em] Y[C]ours now forever
+
+<Prechorus>
+[C] And n[Em]othing's gonna hold me [D]back
+Nothing's gonna hold me [C]back
+[Em]Nothing's gonna hold me [D]back
+
+<Chorus>
+[G] My chains fell off
+My heart was f[D]ree
+I'm al[Em]ive to live for you
+I'm al[D]ive to live for you
+---
+[G] Amazing Love, how can it b[D]e?
+You give e[Em]verything for me
+You give e[D]verything for me
+Everyt[C]hing
+
+<Verse 3>
+[G] You washed my sin and shame away
+The slate is clean; a brand new day
+[Em] F[C]ree now forever
+
+<Verse 4>
+[G] Now boldly I approach your throne
+To claim this crown through Christ my own
+[Em] Y[C]ours now forever
+
+<Break>
+|: C | D | Em | :|
+
+<Bridge 1>
+I'm f[C]ree to live
+F[D]ree to give
+F[Em]ree to be
+I'm free to love you
+
+<Bridge 2>
+I'm f[C]ree to live
+F[D]ree to give
+F[Em]ree to be
+I'm free to love you L[C]ord
