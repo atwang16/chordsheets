@@ -1,0 +1,33 @@
+<song> Draw Me Close
+<ccli> 1459484
+<composer> Kelly Carpenter
+<key> A Major
+<bpm> 52
+<signature> 4/4
+<verse> N/A
+<arranger> ACF Worship
+<year> 1994
+<publisher> Mercy / Vineyard Publishing 
+
+<order>
+Verse 1
+Verse 2
+Chorus
+
+<Verse 1>
+[A] Draw me close to y[D]ou
+[E/G#] Never let me g[A]o
+[E] I lay it all d[D]own again
+[F#m] To hear you say that [D]I'm your friend
+
+<Verse 2>
+[A] You are my des[D]ire
+[E/G#] No one else will do
+[E] 'Cause nothing else could t[D]ake your place[F#m] To feel the warmth of y[D]our embrace
+[A] Help me find the w[Bm]ay, [E]bring me back to y[A]ou
+
+<Chorus>
+[A] You're a[E]ll I w[D]ant
+[A] You're a[E]ll I e[D]ver n[E]eeded
+[A] You're a[E]ll I w[D]ant
+[Bm] Help me know [E]you are n[A]ear

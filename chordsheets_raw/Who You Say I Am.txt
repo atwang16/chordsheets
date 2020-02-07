@@ -1,0 +1,61 @@
+<song> Who You Say I Am
+<ccli> 7102401
+<composer> Ben Fielding, Reuben Morgan
+<key> F Major
+<bpm> 4/4
+<signature> 4/4
+<verse> John 1:12
+<arranger> ACF Worship
+<year> 2017
+<publisher> Hillsong Music Publishing Australia
+
+<order>
+Intro
+Verse 1
+Chorus 1
+Verse 2
+Chorus 2
+Bridge (x2)
+Chorus 2
+
+
+<Intro>
+|: F :|
+
+<Verse 1>
+[F] Who am I that the highest King
+Would [Dm]wel[C]come [F]me
+I was lost but He brought me in
+Oh His [Dm]love [C]for [Bb]me
+Oh His [Dm]love [C]for [Bb]me
+
+<Chorus 1>
+Who the [F]Son sets free
+Oh is [C]free indeed
+I’m a [Dm]child [C]of [Bb]God
+Yes I [F]am
+
+<Verse 2>
+[F] Free at last He has ransomed me
+His [Dm]grace [C]runs [F]deep
+While I was a slave to sin
+Jesus [Dm]died [C]for [Bb]me
+Yes He [Dm]died [C]for [Bb]me
+
+<Chorus 2>
+Who the [F]Son sets free
+Oh is [C]free indeed
+I’m a [Dm]child [C]of [Bb]God
+Yes I [F]am
+In my [F]Father’s house
+There’s a [C]place for me
+I’m a [Dm]child [C]of [Bb]God
+Yes I [F]am
+
+<Bridge>
+I am [Dm]chosen
+Not [C/E]forsaken
+I [F]am who You say I a[Bb]m
+You are [Dm]for me
+Not ag[C/E]ainst me
+I [F]am who You say I a[Bb]m

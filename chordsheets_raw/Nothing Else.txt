@@ -1,0 +1,47 @@
+<song> Nothing Else
+<ccli> 7123436
+<key> C Major
+<bpm> 68
+<signature> 4/4
+<verse> Luke 10:39
+<arranger> ACF Worship
+
+<order>
+Intro
+Chorus
+Verse 1
+Verse 2
+Chorus
+Bridge (x3)
+Chorus
+
+<Intro>
+|: Dm | F | C | :|
+
+<Chorus>
+I'm caught up in Your [Dm]presence
+[F] I just want to [C]sit here at Your feet
+I'm caught up in this [Dm]holy moment
+[F] I never want to l[C]eave
+---
+Oh, I'm not here for [Dm]blessings
+[F] Jesus, You don't [C]owe me anything
+More than any[Dm]thing that You can d[F]o
+I just want Y[C]ou
+
+<Verse 1>
+I'm s[F]orry when I've just gone through the motions
+I'm s[C/E]orry when I just sang another song
+Take me b[Fmaj7]ack to where we started
+I open up my heart to Y[C]ou
+
+<Verse 2>
+I'm s[F]orry when I've come with my agenda
+I'm s[C/E]orry when I forgot that You're enough
+Take me b[Fmaj7]ack to where we started
+I open up my heart to Y[C]ou
+
+<Bridge>
+I just want [Dm]You
+Nothing else,[F] nothing else
+[Am] Nothing else will d[G]o

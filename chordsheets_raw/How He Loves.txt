@@ -1,0 +1,65 @@
+<song> How He Loves
+<ccli> 5032549
+<composer> John Mark McMillan
+<key> C Major
+<bpm> 50
+<signature> 6/8
+<verse> John 3:16
+<arranger> ACF Worship
+<year> 2005
+<publisher> Integrity's Hosanna! Music
+
+<order>
+Intro
+Verse
+Chorus 1
+Break
+Verse
+Chorus 1
+Break
+Chorus 2
+Bridge
+Chorus 2 (x2)
+Break
+Chorus 2
+
+<Intro>
+| C | | Am | |
+| G | | F  | |
+
+<Verse>
+[C]He is jealous for me
+[Am]Loves like a hurricane
+I am a tree [G]bending beneath
+The weight of His wind and [F]mercy
+---
+When [C]all of a sudden
+I am unaware of these af[Am]flictions eclipsed by glory
+And I [G]realize just how beautiful You are
+And how [F]great Your affections are for me
+
+<Chorus 1>
+And [C]oh how He loves us [Am]so
+Oh, how He [G]loves us
+How He loves us [F]all
+
+<Break>
+| C | | Am | |
+| G | | F  | |
+
+<Chorus 2>
+He [C]loves us
+Oh, how He [Am]loves us
+Oh, how He [G]loves us
+Oh, how He [F]loves
+
+<Bridge>
+And [C]we are His portion
+And He is our prize
+[Am]Drawn to redemption by the grace in His eyes
+If His [G]grace is an ocean, we're all [F]sinking
+---
+When [C]heaven meets earth like an unforeseen kiss
+And my [Am]heart turns violently inside of my chest
+I [G]don't have time to maintain these regrets
+When I [F]think about the way that He loves us

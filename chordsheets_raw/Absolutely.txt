@@ -1,0 +1,60 @@
+<song> Absolutely
+<ccli> 5683383
+<composer> Ian Eskelin, Jon Neufeld, Tim Neufeld
+<key> E Major
+<bpm> 4/4
+<signature> 4/4
+<verse> 
+<arranger> ACF Worship
+
+<order>
+Intro
+Verse 1
+Verse 2
+Prechorus
+Chorus
+Break
+Verse 3
+Verse 4
+Prechorus
+Chorus (x2)
+
+<Intro>
+|: C#m / A / | E/G# / B :|
+
+<Verse 1>
+[C#m]Lover of my[A] soul
+[E] I want to [B]tell You
+[C#m]Only You have [A]all of m[B]e
+
+<Verse 2>
+[C#m]I cannot c[A]ontain
+[E] My ado[B]ration
+[C#m]I'm in love so [A]desperatel[B]y
+
+<Prechorus>
+No one is as [F#m]lovely as You a[B]re
+There is no one [F#m]else
+Who has my h[B]eart
+
+<Chorus>
+[E]Jesus, You have me com[B]pletely
+Every breath that [F#m]I breathe
+I am abso[A]lutely in [B]love
+---
+[E]Jesus, I am Yours for[B]ever
+All of me sur[F#m]renders
+I am abso[A]lutely in [B]love with [C#m]You
+
+<Break>
+| C#m / A / | E/G# / B |
+
+<Verse 3>
+[C#m]Down upon my[A] knees
+[E] I'm lost in [B]worship
+[C#m]Humbled by Your [A]majest[B]y
+
+<Verse 4>
+[C#m]What is there to[A] say
+[E] But how I [B]love you
+[C#m]Thank You for for[A]giving m[B]e

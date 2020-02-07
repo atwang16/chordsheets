@@ -1,0 +1,81 @@
+<song> King of Glory
+<ccli> 7142008
+<key> Bb Major
+<bpm> 172
+<signature> 4/4
+<verse> Psalm 24:7-10
+<arranger> ACF Worship
+
+<order>
+Intro
+Verse 1
+Verse 2
+Chorus
+Verse 3
+Chorus
+Break 1
+Bridge 1
+Bridge 2
+Break 2
+Chorus
+Tag
+
+<Intro>
+| Bb | F/Bb |
+| Bb | F/Bb |
+| Bb | F/Bb |
+| Gm | Eb |
+
+<Verse 1>
+[Bb]Don't lose heart
+Oh my soul, oh my soul
+[Eb]Don't give up
+There is hope, there is always h[Gm]ope[Eb]
+
+<Verse 2>
+And [Bb]there is peace
+In the storm, in the storm
+No, [Eb]don't forget
+He is Lord, He is Lord of a[Gm]ll[Eb]
+
+<Chorus>
+[Bb] There is a King of Glory
+[Eb] There is a God who saves
+[Gm] One who is strong and mighty
+[Eb] Freedom is in His name
+---
+[Bb] Open the Gates of Heaven
+[Eb] Lift up a shout of [F]praise
+[Gm] There is a lion roaring
+[Eb] Jesus, the King of Glory
+
+<Verse 3>
+So [Bb]lift your eyes
+Stand in awe, stand in awe
+[Eb]There is one, only one
+Where my help comes f[Gm]rom[Eb]
+
+<Break 1>
+| Bbmaj7/D | | Eb2 | |
+
+<Bridge 1>
+[Bbmaj7/D]Nations bow, mountains shake
+[Eb2]At the sound of just one name
+[Bbmaj7/D]Over all Jesus reigns
+[Eb2]I know, I know
+
+<Bridge 2>
+[Bbmaj7/D]Nations bow, mountains shake
+[Eb2]At the sound of just one name
+[Bbmaj7/D]Over all Jesus reigns
+[Eb2]I know
+
+<Break 2>
+| Bb | F/Bb |
+| Bb | F/Bb |
+| Bb | F/Bb |
+| Gm | Eb |
+
+<Tag>
+[Gm] There is a lion roaring
+[Eb] Jesus, the King of Glory
